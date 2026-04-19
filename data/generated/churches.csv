@@ -1,0 +1,301 @@
+churchId,name,state,district,city,address,lat,lng,pastorId,status,createdAt,updatedAt
+church-001,Harvest Church New Delhi 1,Delhi,New Delhi,New Delhi,"10, New Delhi Community Road",28.654116,77.119731,pastor-001,growing,2023-03-04,2026-11-17
+church-002,Grace Church New Delhi 2,Delhi,New Delhi,New Delhi,"11, New Delhi Community Road",28.562529,77.295837,pastor-002,active,2012-01-17,2026-08-12
+church-003,Cornerstone Church New Delhi 3,Delhi,New Delhi,New Delhi,"12, New Delhi Community Road",28.651245,77.206424,pastor-003,new,2015-03-14,2024-05-08
+church-004,Living Waters Church New Delhi 4,Delhi,New Delhi,New Delhi,"13, New Delhi Community Road",28.685706,77.162338,pastor-004,new,2015-06-21,2026-10-18
+church-005,Faith Church New Delhi 5,Delhi,New Delhi,New Delhi,"14, New Delhi Community Road",28.552598,77.297141,pastor-005,support_needed,2014-07-01,2025-04-05
+church-006,Covenant Church New Delhi 6,Delhi,New Delhi,New Delhi,"15, New Delhi Community Road",28.557057,77.280001,pastor-006,new,2022-12-27,2026-06-23
+church-007,Covenant Church New Delhi 7,Delhi,New Delhi,New Delhi,"16, New Delhi Community Road",28.59277,77.286452,pastor-007,growing,2013-08-13,2024-02-14
+church-008,Cornerstone Church New Delhi 8,Delhi,New Delhi,New Delhi,"17, New Delhi Community Road",28.673888,77.167843,pastor-008,growing,2022-07-14,2025-12-22
+church-009,Hope Church New Delhi 9,Delhi,New Delhi,New Delhi,"18, New Delhi Community Road",28.62814,77.225536,pastor-009,support_needed,2024-04-01,2026-12-13
+church-010,Covenant Church New Delhi 10,Delhi,New Delhi,New Delhi,"19, New Delhi Community Road",28.65992,77.260547,pastor-010,support_needed,2013-01-13,2025-06-04
+church-011,Redeemer Church New Delhi 11,Delhi,New Delhi,New Delhi,"20, New Delhi Community Road",28.548568,77.126499,pastor-011,growing,2013-04-08,2026-04-06
+church-012,Covenant Church New Delhi 12,Delhi,New Delhi,New Delhi,"21, New Delhi Community Road",28.527605,77.249001,pastor-012,growing,2017-06-20,2025-04-24
+church-013,Restoration Church New Delhi 13,Delhi,New Delhi,New Delhi,"22, New Delhi Community Road",28.678137,77.190156,pastor-013,growing,2019-11-12,2024-06-11
+church-014,Restoration Church New Delhi 14,Delhi,New Delhi,New Delhi,"23, New Delhi Community Road",28.602839,77.203848,pastor-014,new,2017-09-18,2024-05-06
+church-015,Living Waters Church New Delhi 15,Delhi,New Delhi,New Delhi,"24, New Delhi Community Road",28.556333,77.120406,pastor-015,support_needed,2015-06-04,2024-05-21
+church-016,Redeemer Church Mumbai 1,Maharashtra,Mumbai,Mumbai,"10, Mumbai Community Road",19.079409,72.802661,pastor-016,active,2015-11-17,2024-02-19
+church-017,Restoration Church Mumbai 2,Maharashtra,Mumbai,Mumbai,"11, Mumbai Community Road",19.000267,72.927152,pastor-017,growing,2013-02-09,2024-11-20
+church-018,Living Waters Church Mumbai 3,Maharashtra,Mumbai,Mumbai,"12, Mumbai Community Road",19.099692,72.861891,pastor-018,active,2017-10-23,2025-03-08
+church-019,Grace Church Mumbai 4,Maharashtra,Mumbai,Mumbai,"13, Mumbai Community Road",19.016467,72.830066,pastor-019,growing,2012-09-11,2025-09-02
+church-020,Grace Church Mumbai 5,Maharashtra,Mumbai,Mumbai,"14, Mumbai Community Road",19.022305,72.915942,pastor-020,active,2019-07-11,2024-05-25
+church-021,Covenant Church Mumbai 6,Maharashtra,Mumbai,Mumbai,"15, Mumbai Community Road",19.155758,72.906696,pastor-021,active,2021-06-08,2026-02-08
+church-022,Redeemer Church Mumbai 7,Maharashtra,Mumbai,Mumbai,"16, Mumbai Community Road",19.107012,72.896096,pastor-022,new,2014-11-15,2025-07-25
+church-023,New Life Church Mumbai 8,Maharashtra,Mumbai,Mumbai,"17, Mumbai Community Road",19.02741,72.95395,pastor-023,active,2020-11-01,2024-11-05
+church-024,Covenant Church Mumbai 9,Maharashtra,Mumbai,Mumbai,"18, Mumbai Community Road",19.069971,72.801246,pastor-024,active,2022-01-28,2026-12-13
+church-025,Hope Church Mumbai 10,Maharashtra,Mumbai,Mumbai,"19, Mumbai Community Road",19.131213,72.80208,pastor-025,support_needed,2015-07-15,2025-06-23
+church-026,Faith Church Mumbai 11,Maharashtra,Mumbai,Mumbai,"20, Mumbai Community Road",19.056342,72.898835,pastor-026,active,2016-04-16,2026-08-11
+church-027,Redeemer Church Mumbai 12,Maharashtra,Mumbai,Mumbai,"21, Mumbai Community Road",19.01501,72.861333,pastor-027,active,2024-07-13,2025-10-13
+church-028,New Life Church Mumbai 13,Maharashtra,Mumbai,Mumbai,"22, Mumbai Community Road",19.028345,72.884209,pastor-028,support_needed,2017-08-11,2024-11-23
+church-029,Redeemer Church Mumbai 14,Maharashtra,Mumbai,Mumbai,"23, Mumbai Community Road",19.077336,72.843362,pastor-029,growing,2014-02-17,2024-07-02
+church-030,Cornerstone Church Mumbai 15,Maharashtra,Mumbai,Mumbai,"24, Mumbai Community Road",19.013546,72.937164,pastor-030,active,2018-01-23,2024-11-04
+church-031,Covenant Church Bengaluru 1,Karnataka,Bengaluru Urban,Bengaluru,"10, Bengaluru Community Road",12.929482,77.53682,pastor-031,growing,2015-08-25,2024-07-24
+church-032,Cornerstone Church Bengaluru 2,Karnataka,Bengaluru Urban,Bengaluru,"11, Bengaluru Community Road",12.915208,77.528865,pastor-032,support_needed,2017-04-01,2025-11-11
+church-033,Covenant Church Bengaluru 3,Karnataka,Bengaluru Urban,Bengaluru,"12, Bengaluru Community Road",13.047675,77.512644,pastor-033,growing,2016-11-10,2025-08-05
+church-034,Cornerstone Church Bengaluru 4,Karnataka,Bengaluru Urban,Bengaluru,"13, Bengaluru Community Road",12.928355,77.584875,pastor-034,new,2024-02-04,2026-11-09
+church-035,Grace Church Bengaluru 5,Karnataka,Bengaluru Urban,Bengaluru,"14, Bengaluru Community Road",13.000773,77.52214,pastor-035,growing,2017-04-11,2025-12-16
+church-036,Redeemer Church Bengaluru 6,Karnataka,Bengaluru Urban,Bengaluru,"15, Bengaluru Community Road",12.908165,77.619154,pastor-036,support_needed,2014-08-01,2026-03-26
+church-037,Covenant Church Bengaluru 7,Karnataka,Bengaluru Urban,Bengaluru,"16, Bengaluru Community Road",12.883441,77.633388,pastor-037,active,2013-12-20,2024-08-11
+church-038,Faith Church Bengaluru 8,Karnataka,Bengaluru Urban,Bengaluru,"17, Bengaluru Community Road",12.992299,77.577193,pastor-038,active,2020-07-14,2026-03-12
+church-039,Harvest Church Bengaluru 9,Karnataka,Bengaluru Urban,Bengaluru,"18, Bengaluru Community Road",13.007122,77.616713,pastor-039,support_needed,2022-08-15,2025-04-22
+church-040,Harvest Church Bengaluru 10,Karnataka,Bengaluru Urban,Bengaluru,"19, Bengaluru Community Road",12.94798,77.521247,pastor-040,growing,2021-08-28,2026-04-16
+church-041,New Life Church Bengaluru 11,Karnataka,Bengaluru Urban,Bengaluru,"20, Bengaluru Community Road",13.023278,77.625652,pastor-041,growing,2012-06-12,2026-04-06
+church-042,New Life Church Bengaluru 12,Karnataka,Bengaluru Urban,Bengaluru,"21, Bengaluru Community Road",13.056238,77.673123,pastor-042,active,2012-02-03,2024-12-25
+church-043,Grace Church Bengaluru 13,Karnataka,Bengaluru Urban,Bengaluru,"22, Bengaluru Community Road",13.032695,77.557299,pastor-043,active,2017-08-08,2024-04-16
+church-044,Living Waters Church Bengaluru 14,Karnataka,Bengaluru Urban,Bengaluru,"23, Bengaluru Community Road",12.975441,77.666874,pastor-044,support_needed,2012-12-06,2026-12-19
+church-045,Cornerstone Church Bengaluru 15,Karnataka,Bengaluru Urban,Bengaluru,"24, Bengaluru Community Road",12.934681,77.611212,pastor-045,new,2012-02-03,2026-04-03
+church-046,Hope Church Chennai 1,Tamil Nadu,Chennai,Chennai,"10, Chennai Community Road",13.030696,80.271435,pastor-046,growing,2012-04-03,2024-07-26
+church-047,Grace Church Chennai 2,Tamil Nadu,Chennai,Chennai,"11, Chennai Community Road",13.124237,80.339013,pastor-047,active,2012-07-17,2026-10-27
+church-048,Restoration Church Chennai 3,Tamil Nadu,Chennai,Chennai,"12, Chennai Community Road",13.120065,80.284774,pastor-048,growing,2016-08-03,2024-08-19
+church-049,Living Waters Church Chennai 4,Tamil Nadu,Chennai,Chennai,"13, Chennai Community Road",13.166086,80.223743,pastor-049,support_needed,2016-12-08,2025-02-22
+church-050,Restoration Church Chennai 5,Tamil Nadu,Chennai,Chennai,"14, Chennai Community Road",13.043582,80.331117,pastor-050,new,2020-03-12,2026-12-08
+church-051,Grace Church Chennai 6,Tamil Nadu,Chennai,Chennai,"15, Chennai Community Road",13.013495,80.238415,pastor-051,support_needed,2023-07-25,2026-03-04
+church-052,Hope Church Chennai 7,Tamil Nadu,Chennai,Chennai,"16, Chennai Community Road",13.110757,80.257599,pastor-052,new,2020-02-25,2024-01-05
+church-053,Grace Church Chennai 8,Tamil Nadu,Chennai,Chennai,"17, Chennai Community Road",13.133715,80.240067,pastor-053,support_needed,2019-10-21,2026-07-21
+church-054,Harvest Church Chennai 9,Tamil Nadu,Chennai,Chennai,"18, Chennai Community Road",13.011354,80.283987,pastor-054,growing,2023-04-11,2026-06-23
+church-055,New Life Church Chennai 10,Tamil Nadu,Chennai,Chennai,"19, Chennai Community Road",13.164525,80.221355,pastor-055,support_needed,2024-08-20,2026-04-13
+church-056,Hope Church Chennai 11,Tamil Nadu,Chennai,Chennai,"20, Chennai Community Road",13.001007,80.19794,pastor-056,new,2017-08-05,2025-11-19
+church-057,Restoration Church Chennai 12,Tamil Nadu,Chennai,Chennai,"21, Chennai Community Road",13.066963,80.216319,pastor-057,new,2022-07-05,2024-09-20
+church-058,Redeemer Church Chennai 13,Tamil Nadu,Chennai,Chennai,"22, Chennai Community Road",13.148998,80.261538,pastor-058,growing,2013-08-19,2026-01-27
+church-059,Covenant Church Chennai 14,Tamil Nadu,Chennai,Chennai,"23, Chennai Community Road",13.109883,80.358253,pastor-059,support_needed,2022-09-03,2026-02-01
+church-060,Cornerstone Church Chennai 15,Tamil Nadu,Chennai,Chennai,"24, Chennai Community Road",13.101587,80.326682,pastor-060,growing,2024-08-16,2026-01-13
+church-061,Cornerstone Church Kolkata 1,West Bengal,Kolkata,Kolkata,"10, Kolkata Community Road",22.640468,88.416393,pastor-061,support_needed,2024-02-02,2025-08-12
+church-062,Restoration Church Kolkata 2,West Bengal,Kolkata,Kolkata,"11, Kolkata Community Road",22.64345,88.29246,pastor-062,active,2014-07-27,2025-02-19
+church-063,Redeemer Church Kolkata 3,West Bengal,Kolkata,Kolkata,"12, Kolkata Community Road",22.488413,88.432079,pastor-063,support_needed,2023-12-10,2026-12-28
+church-064,Faith Church Kolkata 4,West Bengal,Kolkata,Kolkata,"13, Kolkata Community Road",22.611907,88.301893,pastor-064,new,2024-08-06,2026-08-04
+church-065,Harvest Church Kolkata 5,West Bengal,Kolkata,Kolkata,"14, Kolkata Community Road",22.648743,88.330215,pastor-065,support_needed,2022-03-18,2024-01-27
+church-066,New Life Church Kolkata 6,West Bengal,Kolkata,Kolkata,"15, Kolkata Community Road",22.561308,88.299536,pastor-066,growing,2014-09-05,2024-08-19
+church-067,Harvest Church Kolkata 7,West Bengal,Kolkata,Kolkata,"16, Kolkata Community Road",22.490244,88.323771,pastor-067,growing,2016-06-21,2024-08-26
+church-068,Harvest Church Kolkata 8,West Bengal,Kolkata,Kolkata,"17, Kolkata Community Road",22.532694,88.394897,pastor-068,new,2021-02-19,2024-11-21
+church-069,Covenant Church Kolkata 9,West Bengal,Kolkata,Kolkata,"18, Kolkata Community Road",22.606587,88.328465,pastor-069,support_needed,2015-03-04,2025-07-05
+church-070,Faith Church Kolkata 10,West Bengal,Kolkata,Kolkata,"19, Kolkata Community Road",22.541998,88.383764,pastor-070,active,2012-12-11,2026-07-13
+church-071,Faith Church Kolkata 11,West Bengal,Kolkata,Kolkata,"20, Kolkata Community Road",22.604324,88.300647,pastor-071,new,2022-06-19,2026-01-03
+church-072,Faith Church Kolkata 12,West Bengal,Kolkata,Kolkata,"21, Kolkata Community Road",22.630673,88.345168,pastor-072,growing,2019-10-09,2026-08-24
+church-073,Hope Church Kolkata 13,West Bengal,Kolkata,Kolkata,"22, Kolkata Community Road",22.564569,88.288422,pastor-073,active,2015-09-17,2025-09-18
+church-074,Redeemer Church Kolkata 14,West Bengal,Kolkata,Kolkata,"23, Kolkata Community Road",22.559356,88.292678,pastor-074,new,2015-03-25,2026-11-10
+church-075,Grace Church Kolkata 15,West Bengal,Kolkata,Kolkata,"24, Kolkata Community Road",22.578137,88.324723,pastor-075,active,2015-03-04,2026-04-25
+church-076,New Life Church Hyderabad 1,Telangana,Hyderabad,Hyderabad,"10, Hyderabad Community Road",17.383372,78.418005,pastor-076,new,2012-04-18,2024-08-19
+church-077,Living Waters Church Hyderabad 2,Telangana,Hyderabad,Hyderabad,"11, Hyderabad Community Road",17.471332,78.451779,pastor-077,active,2017-03-08,2025-03-24
+church-078,Redeemer Church Hyderabad 3,Telangana,Hyderabad,Hyderabad,"12, Hyderabad Community Road",17.44639,78.480537,pastor-078,growing,2023-03-02,2024-09-11
+church-079,Living Waters Church Hyderabad 4,Telangana,Hyderabad,Hyderabad,"13, Hyderabad Community Road",17.413702,78.473206,pastor-079,support_needed,2022-08-03,2024-11-02
+church-080,New Life Church Hyderabad 5,Telangana,Hyderabad,Hyderabad,"14, Hyderabad Community Road",17.403324,78.56762,pastor-080,support_needed,2015-07-18,2026-12-02
+church-081,Grace Church Hyderabad 6,Telangana,Hyderabad,Hyderabad,"15, Hyderabad Community Road",17.346297,78.437463,pastor-081,new,2014-11-23,2025-12-17
+church-082,Hope Church Hyderabad 7,Telangana,Hyderabad,Hyderabad,"16, Hyderabad Community Road",17.420119,78.550531,pastor-082,support_needed,2014-09-12,2024-01-22
+church-083,Restoration Church Hyderabad 8,Telangana,Hyderabad,Hyderabad,"17, Hyderabad Community Road",17.40595,78.489772,pastor-083,new,2020-12-19,2026-02-04
+church-084,Living Waters Church Hyderabad 9,Telangana,Hyderabad,Hyderabad,"18, Hyderabad Community Road",17.369934,78.539343,pastor-084,support_needed,2023-01-02,2026-09-28
+church-085,Living Waters Church Hyderabad 10,Telangana,Hyderabad,Hyderabad,"19, Hyderabad Community Road",17.329754,78.554325,pastor-085,support_needed,2013-11-03,2025-10-28
+church-086,Faith Church Hyderabad 11,Telangana,Hyderabad,Hyderabad,"20, Hyderabad Community Road",17.315191,78.422978,pastor-086,growing,2021-09-04,2025-11-24
+church-087,New Life Church Hyderabad 12,Telangana,Hyderabad,Hyderabad,"21, Hyderabad Community Road",17.44743,78.522951,pastor-087,growing,2020-05-13,2026-12-27
+church-088,Living Waters Church Hyderabad 13,Telangana,Hyderabad,Hyderabad,"22, Hyderabad Community Road",17.426841,78.456042,pastor-088,growing,2013-05-12,2025-06-05
+church-089,New Life Church Hyderabad 14,Telangana,Hyderabad,Hyderabad,"23, Hyderabad Community Road",17.309961,78.493686,pastor-089,new,2020-04-05,2025-08-18
+church-090,Harvest Church Hyderabad 15,Telangana,Hyderabad,Hyderabad,"24, Hyderabad Community Road",17.405635,78.525646,pastor-090,active,2014-12-18,2024-11-18
+church-091,Hope Church Pune 1,Maharashtra,Pune,Pune,"10, Pune Community Road",18.538417,73.875095,pastor-091,support_needed,2012-09-20,2024-07-01
+church-092,Grace Church Pune 2,Maharashtra,Pune,Pune,"11, Pune Community Road",18.580659,73.904457,pastor-092,support_needed,2024-03-11,2026-12-01
+church-093,Covenant Church Pune 3,Maharashtra,Pune,Pune,"12, Pune Community Road",18.497771,73.798852,pastor-093,support_needed,2021-09-25,2025-08-03
+church-094,Grace Church Pune 4,Maharashtra,Pune,Pune,"13, Pune Community Road",18.547675,73.856085,pastor-094,active,2013-08-11,2024-05-22
+church-095,Living Waters Church Pune 5,Maharashtra,Pune,Pune,"14, Pune Community Road",18.440444,73.921393,pastor-095,growing,2016-02-25,2024-01-28
+church-096,Harvest Church Pune 6,Maharashtra,Pune,Pune,"15, Pune Community Road",18.53031,73.911221,pastor-096,support_needed,2024-12-26,2025-05-23
+church-097,New Life Church Pune 7,Maharashtra,Pune,Pune,"16, Pune Community Road",18.467679,73.870432,pastor-097,support_needed,2015-01-15,2025-09-08
+church-098,Redeemer Church Pune 8,Maharashtra,Pune,Pune,"17, Pune Community Road",18.540182,73.877776,pastor-098,growing,2022-02-22,2026-04-20
+church-099,Living Waters Church Pune 9,Maharashtra,Pune,Pune,"18, Pune Community Road",18.557969,73.89506,pastor-099,growing,2013-03-12,2024-12-09
+church-100,Faith Church Pune 10,Maharashtra,Pune,Pune,"19, Pune Community Road",18.434016,73.806954,pastor-100,support_needed,2013-11-08,2025-07-04
+church-101,Living Waters Church Pune 11,Maharashtra,Pune,Pune,"20, Pune Community Road",18.541363,73.871728,pastor-101,active,2012-10-19,2025-06-13
+church-102,Faith Church Pune 12,Maharashtra,Pune,Pune,"21, Pune Community Road",18.52671,73.905342,pastor-102,active,2015-03-07,2026-01-14
+church-103,Harvest Church Pune 13,Maharashtra,Pune,Pune,"22, Pune Community Road",18.474369,73.815458,pastor-103,support_needed,2012-04-19,2025-06-01
+church-104,Cornerstone Church Pune 14,Maharashtra,Pune,Pune,"23, Pune Community Road",18.590483,73.792276,pastor-104,active,2021-10-23,2025-01-15
+church-105,Harvest Church Pune 15,Maharashtra,Pune,Pune,"24, Pune Community Road",18.584166,73.892708,pastor-105,active,2013-07-19,2025-05-28
+church-106,Harvest Church Kochi 1,Kerala,Ernakulam,Kochi,"10, Kochi Community Road",9.870509,76.307703,pastor-106,active,2022-01-16,2026-12-23
+church-107,Hope Church Kochi 2,Kerala,Ernakulam,Kochi,"11, Kochi Community Road",9.930744,76.353199,pastor-107,new,2015-03-21,2024-10-22
+church-108,New Life Church Kochi 3,Kerala,Ernakulam,Kochi,"12, Kochi Community Road",9.979889,76.309522,pastor-108,growing,2013-09-19,2025-03-19
+church-109,Cornerstone Church Kochi 4,Kerala,Ernakulam,Kochi,"13, Kochi Community Road",10.010617,76.179927,pastor-109,support_needed,2024-08-18,2025-12-15
+church-110,Harvest Church Kochi 5,Kerala,Ernakulam,Kochi,"14, Kochi Community Road",9.954916,76.208234,pastor-110,support_needed,2012-01-01,2026-04-10
+church-111,Faith Church Kochi 6,Kerala,Ernakulam,Kochi,"15, Kochi Community Road",9.957695,76.252831,pastor-111,support_needed,2019-02-01,2024-08-21
+church-112,Harvest Church Kochi 7,Kerala,Ernakulam,Kochi,"16, Kochi Community Road",9.84576,76.277549,pastor-112,active,2022-10-21,2025-06-26
+church-113,Grace Church Kochi 8,Kerala,Ernakulam,Kochi,"17, Kochi Community Road",9.930632,76.196529,pastor-113,active,2012-08-09,2025-08-09
+church-114,Hope Church Kochi 9,Kerala,Ernakulam,Kochi,"18, Kochi Community Road",9.882294,76.338316,pastor-114,active,2024-08-18,2025-09-09
+church-115,Living Waters Church Kochi 10,Kerala,Ernakulam,Kochi,"19, Kochi Community Road",9.963044,76.269507,pastor-115,new,2016-06-01,2025-02-13
+church-116,Cornerstone Church Kochi 11,Kerala,Ernakulam,Kochi,"20, Kochi Community Road",9.951489,76.269128,pastor-116,new,2019-03-19,2024-05-07
+church-117,Harvest Church Kochi 12,Kerala,Ernakulam,Kochi,"21, Kochi Community Road",9.954383,76.258572,pastor-117,active,2018-06-21,2025-10-23
+church-118,Redeemer Church Kochi 13,Kerala,Ernakulam,Kochi,"22, Kochi Community Road",9.929,76.256881,pastor-118,active,2019-09-14,2025-04-15
+church-119,Cornerstone Church Kochi 14,Kerala,Ernakulam,Kochi,"23, Kochi Community Road",9.929593,76.289312,pastor-119,active,2016-10-22,2025-01-22
+church-120,Harvest Church Kochi 15,Kerala,Ernakulam,Kochi,"24, Kochi Community Road",9.859979,76.313895,pastor-120,active,2024-05-19,2026-06-02
+church-121,Hope Church Jaipur 1,Rajasthan,Jaipur,Jaipur,"10, Jaipur Community Road",26.901672,75.874257,pastor-121,new,2019-05-22,2024-12-24
+church-122,Cornerstone Church Jaipur 2,Rajasthan,Jaipur,Jaipur,"11, Jaipur Community Road",26.866509,75.795579,pastor-122,active,2020-08-22,2024-05-14
+church-123,Redeemer Church Jaipur 3,Rajasthan,Jaipur,Jaipur,"12, Jaipur Community Road",26.869088,75.834656,pastor-123,active,2021-10-22,2025-11-16
+church-124,Harvest Church Jaipur 4,Rajasthan,Jaipur,Jaipur,"13, Jaipur Community Road",26.915525,75.751739,pastor-124,new,2017-01-16,2025-01-23
+church-125,Covenant Church Jaipur 5,Rajasthan,Jaipur,Jaipur,"14, Jaipur Community Road",26.826039,75.776656,pastor-125,support_needed,2022-11-20,2025-11-12
+church-126,Harvest Church Jaipur 6,Rajasthan,Jaipur,Jaipur,"15, Jaipur Community Road",26.994867,75.780368,pastor-126,growing,2018-02-17,2024-07-27
+church-127,Living Waters Church Jaipur 7,Rajasthan,Jaipur,Jaipur,"16, Jaipur Community Road",26.963669,75.87104,pastor-127,new,2021-10-23,2025-10-27
+church-128,Living Waters Church Jaipur 8,Rajasthan,Jaipur,Jaipur,"17, Jaipur Community Road",26.982011,75.738007,pastor-128,new,2021-11-25,2026-03-02
+church-129,Redeemer Church Jaipur 9,Rajasthan,Jaipur,Jaipur,"18, Jaipur Community Road",26.935423,75.786546,pastor-129,active,2018-03-22,2026-11-11
+church-130,Hope Church Jaipur 10,Rajasthan,Jaipur,Jaipur,"19, Jaipur Community Road",26.944415,75.84385,pastor-130,growing,2023-11-13,2024-12-13
+church-131,Living Waters Church Jaipur 11,Rajasthan,Jaipur,Jaipur,"20, Jaipur Community Road",26.926415,75.704756,pastor-131,growing,2016-12-04,2026-10-22
+church-132,Grace Church Jaipur 12,Rajasthan,Jaipur,Jaipur,"21, Jaipur Community Road",26.971087,75.750382,pastor-132,growing,2021-04-03,2026-06-06
+church-133,Restoration Church Jaipur 13,Rajasthan,Jaipur,Jaipur,"22, Jaipur Community Road",26.874966,75.795266,pastor-133,support_needed,2018-04-07,2026-06-03
+church-134,Covenant Church Jaipur 14,Rajasthan,Jaipur,Jaipur,"23, Jaipur Community Road",26.853334,75.752064,pastor-134,support_needed,2016-12-06,2026-04-01
+church-135,Hope Church Jaipur 15,Rajasthan,Jaipur,Jaipur,"24, Jaipur Community Road",26.846828,75.816192,pastor-135,support_needed,2019-11-23,2024-10-20
+church-136,Covenant Church Lucknow 1,Uttar Pradesh,Lucknow,Lucknow,"10, Lucknow Community Road",26.877116,81.010129,pastor-136,new,2015-04-04,2026-01-19
+church-137,Harvest Church Lucknow 2,Uttar Pradesh,Lucknow,Lucknow,"11, Lucknow Community Road",26.806173,80.866475,pastor-137,new,2024-08-27,2024-09-09
+church-138,Redeemer Church Lucknow 3,Uttar Pradesh,Lucknow,Lucknow,"12, Lucknow Community Road",26.819198,81.009806,pastor-138,growing,2016-02-21,2025-04-20
+church-139,Faith Church Lucknow 4,Uttar Pradesh,Lucknow,Lucknow,"13, Lucknow Community Road",26.759602,81.022466,pastor-139,new,2019-03-24,2026-10-12
+church-140,Redeemer Church Lucknow 5,Uttar Pradesh,Lucknow,Lucknow,"14, Lucknow Community Road",26.776567,80.916895,pastor-140,active,2012-11-15,2025-07-21
+church-141,Faith Church Lucknow 6,Uttar Pradesh,Lucknow,Lucknow,"15, Lucknow Community Road",26.795619,80.989081,pastor-141,growing,2014-05-07,2024-01-25
+church-142,Grace Church Lucknow 7,Uttar Pradesh,Lucknow,Lucknow,"16, Lucknow Community Road",26.820921,80.900784,pastor-142,active,2019-09-22,2026-03-01
+church-143,Living Waters Church Lucknow 8,Uttar Pradesh,Lucknow,Lucknow,"17, Lucknow Community Road",26.805236,80.931468,pastor-143,active,2012-09-25,2025-01-11
+church-144,Redeemer Church Lucknow 9,Uttar Pradesh,Lucknow,Lucknow,"18, Lucknow Community Road",26.834217,81.002172,pastor-144,support_needed,2024-06-01,2026-02-06
+church-145,Redeemer Church Lucknow 10,Uttar Pradesh,Lucknow,Lucknow,"19, Lucknow Community Road",26.924543,80.957878,pastor-145,support_needed,2016-06-03,2026-11-04
+church-146,Hope Church Lucknow 11,Uttar Pradesh,Lucknow,Lucknow,"20, Lucknow Community Road",26.779571,80.915347,pastor-146,growing,2018-04-04,2024-12-09
+church-147,Cornerstone Church Lucknow 12,Uttar Pradesh,Lucknow,Lucknow,"21, Lucknow Community Road",26.805456,80.979913,pastor-147,new,2013-08-22,2024-06-24
+church-148,Faith Church Lucknow 13,Uttar Pradesh,Lucknow,Lucknow,"22, Lucknow Community Road",26.773425,81.029998,pastor-148,growing,2020-02-19,2026-07-05
+church-149,Cornerstone Church Lucknow 14,Uttar Pradesh,Lucknow,Lucknow,"23, Lucknow Community Road",26.805104,80.867498,pastor-149,growing,2013-08-23,2024-06-02
+church-150,Covenant Church Lucknow 15,Uttar Pradesh,Lucknow,Lucknow,"24, Lucknow Community Road",26.844673,80.875308,pastor-150,new,2018-05-24,2024-06-09
+church-151,New Life Church Guwahati 1,Assam,Kamrup Metropolitan,Guwahati,"10, Guwahati Community Road",26.198703,91.74916,pastor-151,support_needed,2013-10-08,2024-12-03
+church-152,Covenant Church Guwahati 2,Assam,Kamrup Metropolitan,Guwahati,"11, Guwahati Community Road",26.110136,91.701201,pastor-152,new,2013-07-09,2024-01-20
+church-153,New Life Church Guwahati 3,Assam,Kamrup Metropolitan,Guwahati,"12, Guwahati Community Road",26.199901,91.71871,pastor-153,new,2014-01-14,2026-08-14
+church-154,Grace Church Guwahati 4,Assam,Kamrup Metropolitan,Guwahati,"13, Guwahati Community Road",26.208963,91.6922,pastor-154,support_needed,2024-05-03,2026-02-13
+church-155,Living Waters Church Guwahati 5,Assam,Kamrup Metropolitan,Guwahati,"14, Guwahati Community Road",26.081129,91.773796,pastor-155,growing,2018-08-25,2025-05-15
+church-156,New Life Church Guwahati 6,Assam,Kamrup Metropolitan,Guwahati,"15, Guwahati Community Road",26.231627,91.675709,pastor-156,new,2014-07-12,2026-03-20
+church-157,New Life Church Guwahati 7,Assam,Kamrup Metropolitan,Guwahati,"16, Guwahati Community Road",26.08566,91.771078,pastor-157,new,2019-12-07,2026-01-26
+church-158,Covenant Church Guwahati 8,Assam,Kamrup Metropolitan,Guwahati,"17, Guwahati Community Road",26.190514,91.695863,pastor-158,new,2014-01-18,2024-08-12
+church-159,Faith Church Guwahati 9,Assam,Kamrup Metropolitan,Guwahati,"18, Guwahati Community Road",26.096275,91.66425,pastor-159,active,2013-11-18,2024-05-08
+church-160,Cornerstone Church Guwahati 10,Assam,Kamrup Metropolitan,Guwahati,"19, Guwahati Community Road",26.209803,91.696664,pastor-160,growing,2020-04-19,2024-07-02
+church-161,Living Waters Church Guwahati 11,Assam,Kamrup Metropolitan,Guwahati,"20, Guwahati Community Road",26.189472,91.682506,pastor-161,new,2013-07-21,2026-04-27
+church-162,Covenant Church Guwahati 12,Assam,Kamrup Metropolitan,Guwahati,"21, Guwahati Community Road",26.093391,91.756865,pastor-162,growing,2023-08-12,2024-02-11
+church-163,Restoration Church Guwahati 13,Assam,Kamrup Metropolitan,Guwahati,"22, Guwahati Community Road",26.204017,91.79898,pastor-163,active,2019-07-27,2024-09-09
+church-164,New Life Church Guwahati 14,Assam,Kamrup Metropolitan,Guwahati,"23, Guwahati Community Road",26.188913,91.6859,pastor-164,new,2013-12-15,2025-10-24
+church-165,Covenant Church Guwahati 15,Assam,Kamrup Metropolitan,Guwahati,"24, Guwahati Community Road",26.185603,91.720577,pastor-165,active,2014-02-19,2026-01-20
+church-166,Living Waters Church Bhubaneswar 1,Odisha,Khorda,Bhubaneswar,"10, Bhubaneswar Community Road",20.385218,85.834442,pastor-166,new,2017-12-18,2026-10-06
+church-167,Cornerstone Church Bhubaneswar 2,Odisha,Khorda,Bhubaneswar,"11, Bhubaneswar Community Road",20.21495,85.911553,pastor-167,active,2016-01-28,2024-12-20
+church-168,Cornerstone Church Bhubaneswar 3,Odisha,Khorda,Bhubaneswar,"12, Bhubaneswar Community Road",20.286707,85.781499,pastor-168,active,2015-11-05,2024-04-10
+church-169,Covenant Church Bhubaneswar 4,Odisha,Khorda,Bhubaneswar,"13, Bhubaneswar Community Road",20.270879,85.758806,pastor-169,support_needed,2023-11-18,2024-11-13
+church-170,Faith Church Bhubaneswar 5,Odisha,Khorda,Bhubaneswar,"14, Bhubaneswar Community Road",20.24822,85.794342,pastor-170,support_needed,2019-01-01,2024-08-03
+church-171,Harvest Church Bhubaneswar 6,Odisha,Khorda,Bhubaneswar,"15, Bhubaneswar Community Road",20.321823,85.881719,pastor-171,active,2016-11-07,2025-05-04
+church-172,Restoration Church Bhubaneswar 7,Odisha,Khorda,Bhubaneswar,"16, Bhubaneswar Community Road",20.326569,85.871789,pastor-172,new,2018-01-24,2026-08-21
+church-173,Harvest Church Bhubaneswar 8,Odisha,Khorda,Bhubaneswar,"17, Bhubaneswar Community Road",20.232582,85.904381,pastor-173,support_needed,2016-02-22,2024-03-27
+church-174,Hope Church Bhubaneswar 9,Odisha,Khorda,Bhubaneswar,"18, Bhubaneswar Community Road",20.254083,85.758961,pastor-174,growing,2016-05-22,2026-10-19
+church-175,Faith Church Bhubaneswar 10,Odisha,Khorda,Bhubaneswar,"19, Bhubaneswar Community Road",20.296976,85.823082,pastor-175,new,2014-03-06,2025-01-28
+church-176,Faith Church Bhubaneswar 11,Odisha,Khorda,Bhubaneswar,"20, Bhubaneswar Community Road",20.240025,85.777895,pastor-176,active,2020-09-19,2026-10-02
+church-177,Faith Church Bhubaneswar 12,Odisha,Khorda,Bhubaneswar,"21, Bhubaneswar Community Road",20.230283,85.90799,pastor-177,growing,2014-12-06,2026-08-13
+church-178,Faith Church Bhubaneswar 13,Odisha,Khorda,Bhubaneswar,"22, Bhubaneswar Community Road",20.224678,85.806201,pastor-178,support_needed,2013-03-25,2025-10-08
+church-179,Hope Church Bhubaneswar 14,Odisha,Khorda,Bhubaneswar,"23, Bhubaneswar Community Road",20.365127,85.737049,pastor-179,support_needed,2013-05-06,2024-09-10
+church-180,Harvest Church Bhubaneswar 15,Odisha,Khorda,Bhubaneswar,"24, Bhubaneswar Community Road",20.261093,85.764299,pastor-180,active,2015-09-19,2026-08-05
+church-181,Covenant Church Indore 1,Madhya Pradesh,Indore,Indore,"10, Indore Community Road",22.702562,75.886697,pastor-181,support_needed,2014-12-06,2025-02-27
+church-182,Grace Church Indore 2,Madhya Pradesh,Indore,Indore,"11, Indore Community Road",22.780381,75.888372,pastor-182,support_needed,2015-04-27,2026-06-18
+church-183,Covenant Church Indore 3,Madhya Pradesh,Indore,Indore,"12, Indore Community Road",22.751393,75.932297,pastor-183,new,2018-02-06,2024-03-18
+church-184,Redeemer Church Indore 4,Madhya Pradesh,Indore,Indore,"13, Indore Community Road",22.710225,75.838182,pastor-184,support_needed,2021-01-04,2024-12-01
+church-185,Redeemer Church Indore 5,Madhya Pradesh,Indore,Indore,"14, Indore Community Road",22.782199,75.93337,pastor-185,growing,2020-12-14,2026-12-02
+church-186,Faith Church Indore 6,Madhya Pradesh,Indore,Indore,"15, Indore Community Road",22.632674,75.810244,pastor-186,new,2018-10-07,2024-06-16
+church-187,Grace Church Indore 7,Madhya Pradesh,Indore,Indore,"16, Indore Community Road",22.750932,75.881067,pastor-187,growing,2019-09-10,2025-11-21
+church-188,Hope Church Indore 8,Madhya Pradesh,Indore,Indore,"17, Indore Community Road",22.765852,75.848338,pastor-188,active,2022-10-22,2024-10-25
+church-189,Living Waters Church Indore 9,Madhya Pradesh,Indore,Indore,"18, Indore Community Road",22.737602,75.892671,pastor-189,new,2019-11-28,2025-08-06
+church-190,Redeemer Church Indore 10,Madhya Pradesh,Indore,Indore,"19, Indore Community Road",22.749396,75.942425,pastor-190,active,2019-05-06,2026-11-23
+church-191,Living Waters Church Indore 11,Madhya Pradesh,Indore,Indore,"20, Indore Community Road",22.775242,75.916841,pastor-191,support_needed,2012-02-17,2024-04-20
+church-192,Hope Church Indore 12,Madhya Pradesh,Indore,Indore,"21, Indore Community Road",22.66349,75.865003,pastor-192,growing,2019-09-10,2026-10-03
+church-193,Cornerstone Church Indore 13,Madhya Pradesh,Indore,Indore,"22, Indore Community Road",22.671069,75.837704,pastor-193,support_needed,2024-05-19,2024-10-02
+church-194,Covenant Church Indore 14,Madhya Pradesh,Indore,Indore,"23, Indore Community Road",22.648097,75.777447,pastor-194,active,2013-06-15,2024-12-20
+church-195,Cornerstone Church Indore 15,Madhya Pradesh,Indore,Indore,"24, Indore Community Road",22.757142,75.911371,pastor-195,active,2012-06-15,2024-08-16
+church-196,Living Waters Church Bhopal 1,Madhya Pradesh,Bhopal,Bhopal,"10, Bhopal Community Road",23.186378,77.372805,pastor-196,new,2013-04-20,2026-12-10
+church-197,Restoration Church Bhopal 2,Madhya Pradesh,Bhopal,Bhopal,"11, Bhopal Community Road",23.224994,77.440361,pastor-197,active,2020-01-01,2025-05-06
+church-198,Hope Church Bhopal 3,Madhya Pradesh,Bhopal,Bhopal,"12, Bhopal Community Road",23.290476,77.357419,pastor-198,active,2024-02-05,2025-09-24
+church-199,Faith Church Bhopal 4,Madhya Pradesh,Bhopal,Bhopal,"13, Bhopal Community Road",23.185074,77.475499,pastor-199,active,2015-06-09,2024-10-24
+church-200,Hope Church Bhopal 5,Madhya Pradesh,Bhopal,Bhopal,"14, Bhopal Community Road",23.182389,77.424703,pastor-200,new,2023-07-04,2026-03-26
+church-201,Redeemer Church Bhopal 6,Madhya Pradesh,Bhopal,Bhopal,"15, Bhopal Community Road",23.183982,77.447385,pastor-201,active,2016-01-06,2024-06-28
+church-202,Living Waters Church Bhopal 7,Madhya Pradesh,Bhopal,Bhopal,"16, Bhopal Community Road",23.293452,77.355019,pastor-202,growing,2015-05-17,2025-08-26
+church-203,Redeemer Church Bhopal 8,Madhya Pradesh,Bhopal,Bhopal,"17, Bhopal Community Road",23.215482,77.465143,pastor-203,support_needed,2019-06-18,2024-09-07
+church-204,Living Waters Church Bhopal 9,Madhya Pradesh,Bhopal,Bhopal,"18, Bhopal Community Road",23.310451,77.435519,pastor-204,growing,2018-11-25,2024-02-14
+church-205,Faith Church Bhopal 10,Madhya Pradesh,Bhopal,Bhopal,"19, Bhopal Community Road",23.212605,77.365971,pastor-205,support_needed,2024-06-13,2024-11-01
+church-206,Harvest Church Bhopal 11,Madhya Pradesh,Bhopal,Bhopal,"20, Bhopal Community Road",23.320997,77.323339,pastor-206,new,2021-07-02,2026-07-19
+church-207,Living Waters Church Bhopal 12,Madhya Pradesh,Bhopal,Bhopal,"21, Bhopal Community Road",23.296088,77.338616,pastor-207,active,2023-11-09,2024-06-02
+church-208,Cornerstone Church Bhopal 13,Madhya Pradesh,Bhopal,Bhopal,"22, Bhopal Community Road",23.298025,77.417172,pastor-208,active,2014-09-18,2024-07-01
+church-209,Redeemer Church Bhopal 14,Madhya Pradesh,Bhopal,Bhopal,"23, Bhopal Community Road",23.261217,77.430989,pastor-209,support_needed,2016-01-07,2026-10-17
+church-210,Redeemer Church Bhopal 15,Madhya Pradesh,Bhopal,Bhopal,"24, Bhopal Community Road",23.290957,77.399717,pastor-210,new,2014-01-24,2026-07-03
+church-211,Covenant Church Chandigarh 1,Chandigarh,Chandigarh,Chandigarh,"10, Chandigarh Community Road",30.72812,76.751721,pastor-211,support_needed,2017-04-08,2026-07-28
+church-212,New Life Church Chandigarh 2,Chandigarh,Chandigarh,Chandigarh,"11, Chandigarh Community Road",30.761828,76.737344,pastor-212,new,2020-09-24,2026-06-08
+church-213,Hope Church Chandigarh 3,Chandigarh,Chandigarh,Chandigarh,"12, Chandigarh Community Road",30.709937,76.72123,pastor-213,active,2014-03-25,2026-05-05
+church-214,Restoration Church Chandigarh 4,Chandigarh,Chandigarh,Chandigarh,"13, Chandigarh Community Road",30.700689,76.747117,pastor-214,active,2020-08-19,2026-01-18
+church-215,Covenant Church Chandigarh 5,Chandigarh,Chandigarh,Chandigarh,"14, Chandigarh Community Road",30.643304,76.864977,pastor-215,active,2019-12-15,2026-09-22
+church-216,Hope Church Chandigarh 6,Chandigarh,Chandigarh,Chandigarh,"15, Chandigarh Community Road",30.803948,76.756476,pastor-216,support_needed,2012-09-05,2025-06-22
+church-217,Grace Church Chandigarh 7,Chandigarh,Chandigarh,Chandigarh,"16, Chandigarh Community Road",30.682153,76.693656,pastor-217,support_needed,2018-12-28,2025-04-09
+church-218,Grace Church Chandigarh 8,Chandigarh,Chandigarh,Chandigarh,"17, Chandigarh Community Road",30.64706,76.697398,pastor-218,growing,2022-06-13,2026-03-21
+church-219,New Life Church Chandigarh 9,Chandigarh,Chandigarh,Chandigarh,"18, Chandigarh Community Road",30.745065,76.791612,pastor-219,growing,2014-11-11,2025-05-07
+church-220,Restoration Church Chandigarh 10,Chandigarh,Chandigarh,Chandigarh,"19, Chandigarh Community Road",30.696299,76.744709,pastor-220,new,2021-03-01,2026-01-07
+church-221,Covenant Church Chandigarh 11,Chandigarh,Chandigarh,Chandigarh,"20, Chandigarh Community Road",30.715969,76.710418,pastor-221,support_needed,2021-04-20,2026-03-19
+church-222,Grace Church Chandigarh 12,Chandigarh,Chandigarh,Chandigarh,"21, Chandigarh Community Road",30.690329,76.74986,pastor-222,growing,2018-01-28,2024-01-26
+church-223,Covenant Church Chandigarh 13,Chandigarh,Chandigarh,Chandigarh,"22, Chandigarh Community Road",30.759527,76.701687,pastor-223,growing,2023-09-09,2024-09-24
+church-224,Grace Church Chandigarh 14,Chandigarh,Chandigarh,Chandigarh,"23, Chandigarh Community Road",30.822547,76.836104,pastor-224,active,2018-07-22,2025-02-16
+church-225,Restoration Church Chandigarh 15,Chandigarh,Chandigarh,Chandigarh,"24, Chandigarh Community Road",30.816298,76.831053,pastor-225,support_needed,2023-11-21,2026-09-06
+church-226,Grace Church Patna 1,Bihar,Patna,Patna,"10, Patna Community Road",25.529394,85.174198,pastor-226,active,2012-06-03,2024-03-07
+church-227,Grace Church Patna 2,Bihar,Patna,Patna,"11, Patna Community Road",25.582357,85.161963,pastor-227,active,2022-10-03,2026-08-01
+church-228,Harvest Church Patna 3,Bihar,Patna,Patna,"12, Patna Community Road",25.661562,85.211407,pastor-228,active,2012-04-15,2024-01-18
+church-229,Faith Church Patna 4,Bihar,Patna,Patna,"13, Patna Community Road",25.521137,85.085591,pastor-229,growing,2014-11-12,2025-06-24
+church-230,New Life Church Patna 5,Bihar,Patna,Patna,"14, Patna Community Road",25.650154,85.108848,pastor-230,new,2023-03-18,2024-05-18
+church-231,Hope Church Patna 6,Bihar,Patna,Patna,"15, Patna Community Road",25.605444,85.196745,pastor-231,new,2021-04-18,2026-04-07
+church-232,Restoration Church Patna 7,Bihar,Patna,Patna,"16, Patna Community Road",25.607817,85.053024,pastor-232,active,2016-01-15,2026-01-22
+church-233,Living Waters Church Patna 8,Bihar,Patna,Patna,"17, Patna Community Road",25.559642,85.072491,pastor-233,active,2015-11-13,2024-05-12
+church-234,Cornerstone Church Patna 9,Bihar,Patna,Patna,"18, Patna Community Road",25.609379,85.070419,pastor-234,new,2021-04-11,2025-09-11
+church-235,Covenant Church Patna 10,Bihar,Patna,Patna,"19, Patna Community Road",25.644974,85.136306,pastor-235,support_needed,2021-01-20,2026-03-27
+church-236,Living Waters Church Patna 11,Bihar,Patna,Patna,"20, Patna Community Road",25.66258,85.146302,pastor-236,new,2015-09-27,2026-09-09
+church-237,Grace Church Patna 12,Bihar,Patna,Patna,"21, Patna Community Road",25.532069,85.073525,pastor-237,support_needed,2017-01-14,2024-11-25
+church-238,Hope Church Patna 13,Bihar,Patna,Patna,"22, Patna Community Road",25.608164,85.173327,pastor-238,active,2017-02-26,2025-03-06
+church-239,Cornerstone Church Patna 14,Bihar,Patna,Patna,"23, Patna Community Road",25.62134,85.057571,pastor-239,growing,2020-06-13,2026-08-01
+church-240,Harvest Church Patna 15,Bihar,Patna,Patna,"24, Patna Community Road",25.537463,85.195171,pastor-240,support_needed,2018-08-03,2025-07-22
+church-241,Covenant Church Ranchi 1,Jharkhand,Ranchi,Ranchi,"10, Ranchi Community Road",23.394309,85.284193,pastor-241,new,2020-01-05,2024-01-22
+church-242,Grace Church Ranchi 2,Jharkhand,Ranchi,Ranchi,"11, Ranchi Community Road",23.384307,85.285599,pastor-242,active,2015-03-28,2025-08-11
+church-243,Living Waters Church Ranchi 3,Jharkhand,Ranchi,Ranchi,"12, Ranchi Community Road",23.364555,85.304946,pastor-243,active,2012-03-27,2025-06-07
+church-244,Covenant Church Ranchi 4,Jharkhand,Ranchi,Ranchi,"13, Ranchi Community Road",23.271395,85.394897,pastor-244,new,2015-11-05,2024-03-26
+church-245,Hope Church Ranchi 5,Jharkhand,Ranchi,Ranchi,"14, Ranchi Community Road",23.282967,85.252317,pastor-245,active,2019-05-21,2024-07-11
+church-246,Living Waters Church Ranchi 6,Jharkhand,Ranchi,Ranchi,"15, Ranchi Community Road",23.417587,85.392748,pastor-246,growing,2020-09-28,2026-01-25
+church-247,Grace Church Ranchi 7,Jharkhand,Ranchi,Ranchi,"16, Ranchi Community Road",23.404839,85.246335,pastor-247,growing,2012-11-04,2024-02-15
+church-248,Redeemer Church Ranchi 8,Jharkhand,Ranchi,Ranchi,"17, Ranchi Community Road",23.281608,85.392211,pastor-248,support_needed,2021-12-21,2026-12-28
+church-249,Living Waters Church Ranchi 9,Jharkhand,Ranchi,Ranchi,"18, Ranchi Community Road",23.324795,85.333758,pastor-249,new,2015-10-27,2025-06-07
+church-250,Living Waters Church Ranchi 10,Jharkhand,Ranchi,Ranchi,"19, Ranchi Community Road",23.28263,85.278073,pastor-250,new,2013-07-04,2026-12-25
+church-251,Grace Church Ranchi 11,Jharkhand,Ranchi,Ranchi,"20, Ranchi Community Road",23.371486,85.275602,pastor-251,new,2024-07-05,2024-10-22
+church-252,Hope Church Ranchi 12,Jharkhand,Ranchi,Ranchi,"21, Ranchi Community Road",23.334369,85.363625,pastor-252,active,2022-12-09,2026-11-02
+church-253,Harvest Church Ranchi 13,Jharkhand,Ranchi,Ranchi,"22, Ranchi Community Road",23.406223,85.27754,pastor-253,active,2020-10-24,2024-02-06
+church-254,Harvest Church Ranchi 14,Jharkhand,Ranchi,Ranchi,"23, Ranchi Community Road",23.386447,85.343501,pastor-254,new,2016-12-15,2026-10-15
+church-255,Cornerstone Church Ranchi 15,Jharkhand,Ranchi,Ranchi,"24, Ranchi Community Road",23.279119,85.389336,pastor-255,growing,2013-05-02,2025-10-19
+church-256,Redeemer Church Nagpur 1,Maharashtra,Nagpur,Nagpur,"10, Nagpur Community Road",21.068244,79.018505,pastor-256,support_needed,2012-04-19,2024-01-04
+church-257,Grace Church Nagpur 2,Maharashtra,Nagpur,Nagpur,"11, Nagpur Community Road",21.066422,79.056634,pastor-257,active,2019-06-08,2026-11-21
+church-258,Grace Church Nagpur 3,Maharashtra,Nagpur,Nagpur,"12, Nagpur Community Road",21.142605,79.097281,pastor-258,new,2015-04-20,2025-11-17
+church-259,Faith Church Nagpur 4,Maharashtra,Nagpur,Nagpur,"13, Nagpur Community Road",21.125237,79.091189,pastor-259,growing,2014-02-27,2024-03-25
+church-260,Hope Church Nagpur 5,Maharashtra,Nagpur,Nagpur,"14, Nagpur Community Road",21.174486,79.117886,pastor-260,new,2015-12-15,2026-08-09
+church-261,Cornerstone Church Nagpur 6,Maharashtra,Nagpur,Nagpur,"15, Nagpur Community Road",21.058626,79.162625,pastor-261,support_needed,2024-05-22,2024-07-11
+church-262,Covenant Church Nagpur 7,Maharashtra,Nagpur,Nagpur,"16, Nagpur Community Road",21.081027,79.125927,pastor-262,growing,2020-04-03,2025-06-25
+church-263,Harvest Church Nagpur 8,Maharashtra,Nagpur,Nagpur,"17, Nagpur Community Road",21.134526,79.012101,pastor-263,active,2017-08-28,2025-07-16
+church-264,Redeemer Church Nagpur 9,Maharashtra,Nagpur,Nagpur,"18, Nagpur Community Road",21.170918,79.151061,pastor-264,active,2013-09-19,2026-07-12
+church-265,Redeemer Church Nagpur 10,Maharashtra,Nagpur,Nagpur,"19, Nagpur Community Road",21.179546,79.156349,pastor-265,active,2017-12-03,2025-10-10
+church-266,New Life Church Nagpur 11,Maharashtra,Nagpur,Nagpur,"20, Nagpur Community Road",21.206703,79.133901,pastor-266,growing,2024-05-24,2026-07-25
+church-267,Cornerstone Church Nagpur 12,Maharashtra,Nagpur,Nagpur,"21, Nagpur Community Road",21.079952,79.173376,pastor-267,support_needed,2023-06-11,2026-02-04
+church-268,Hope Church Nagpur 13,Maharashtra,Nagpur,Nagpur,"22, Nagpur Community Road",21.079185,79.030842,pastor-268,new,2015-10-20,2024-06-13
+church-269,Hope Church Nagpur 14,Maharashtra,Nagpur,Nagpur,"23, Nagpur Community Road",21.097128,79.084374,pastor-269,new,2012-05-12,2025-08-13
+church-270,New Life Church Nagpur 15,Maharashtra,Nagpur,Nagpur,"24, Nagpur Community Road",21.2345,79.151794,pastor-270,support_needed,2020-11-03,2026-07-11
+church-271,Covenant Church Visakhapatnam 1,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"10, Visakhapatnam Community Road",17.737165,83.173748,pastor-271,active,2023-04-01,2024-08-11
+church-272,Harvest Church Visakhapatnam 2,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"11, Visakhapatnam Community Road",17.692304,83.224061,pastor-272,support_needed,2013-10-12,2024-11-08
+church-273,Restoration Church Visakhapatnam 3,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"12, Visakhapatnam Community Road",17.693648,83.250682,pastor-273,support_needed,2013-01-05,2025-10-14
+church-274,Hope Church Visakhapatnam 4,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"13, Visakhapatnam Community Road",17.662555,83.16945,pastor-274,growing,2022-12-05,2026-08-24
+church-275,Restoration Church Visakhapatnam 5,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"14, Visakhapatnam Community Road",17.769337,83.283775,pastor-275,support_needed,2013-06-17,2025-04-15
+church-276,Covenant Church Visakhapatnam 6,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"15, Visakhapatnam Community Road",17.671529,83.303339,pastor-276,growing,2021-04-14,2026-05-03
+church-277,Cornerstone Church Visakhapatnam 7,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"16, Visakhapatnam Community Road",17.762773,83.134276,pastor-277,growing,2012-03-24,2025-07-16
+church-278,Harvest Church Visakhapatnam 8,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"17, Visakhapatnam Community Road",17.738429,83.155607,pastor-278,new,2024-04-02,2026-10-20
+church-279,Faith Church Visakhapatnam 9,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"18, Visakhapatnam Community Road",17.714696,83.138664,pastor-279,active,2017-08-20,2026-03-05
+church-280,Cornerstone Church Visakhapatnam 10,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"19, Visakhapatnam Community Road",17.76827,83.253412,pastor-280,growing,2020-02-19,2025-07-13
+church-281,Restoration Church Visakhapatnam 11,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"20, Visakhapatnam Community Road",17.741722,83.128609,pastor-281,active,2014-12-11,2026-03-17
+church-282,Hope Church Visakhapatnam 12,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"21, Visakhapatnam Community Road",17.671818,83.26633,pastor-282,growing,2018-01-07,2025-10-25
+church-283,Cornerstone Church Visakhapatnam 13,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"22, Visakhapatnam Community Road",17.732402,83.147522,pastor-283,active,2013-05-05,2026-02-09
+church-284,Hope Church Visakhapatnam 14,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"23, Visakhapatnam Community Road",17.611017,83.162405,pastor-284,growing,2018-05-19,2025-07-01
+church-285,Cornerstone Church Visakhapatnam 15,Andhra Pradesh,Visakhapatnam,Visakhapatnam,"24, Visakhapatnam Community Road",17.712511,83.22461,pastor-285,new,2020-10-14,2026-01-15
+church-286,Faith Church Ahmedabad 1,Gujarat,Ahmedabad,Ahmedabad,"10, Ahmedabad Community Road",22.966518,72.626259,pastor-286,support_needed,2021-09-06,2024-09-19
+church-287,Faith Church Ahmedabad 2,Gujarat,Ahmedabad,Ahmedabad,"11, Ahmedabad Community Road",23.058337,72.62693,pastor-287,growing,2024-02-06,2024-12-18
+church-288,Hope Church Ahmedabad 3,Gujarat,Ahmedabad,Ahmedabad,"12, Ahmedabad Community Road",23.012779,72.551642,pastor-288,growing,2023-10-03,2026-05-16
+church-289,Hope Church Ahmedabad 4,Gujarat,Ahmedabad,Ahmedabad,"13, Ahmedabad Community Road",22.947222,72.629562,pastor-289,new,2022-10-27,2026-08-27
+church-290,Covenant Church Ahmedabad 5,Gujarat,Ahmedabad,Ahmedabad,"14, Ahmedabad Community Road",23.007145,72.546265,pastor-290,growing,2016-06-02,2026-05-19
+church-291,Restoration Church Ahmedabad 6,Gujarat,Ahmedabad,Ahmedabad,"15, Ahmedabad Community Road",22.955792,72.482552,pastor-291,active,2016-02-17,2026-03-04
+church-292,Harvest Church Ahmedabad 7,Gujarat,Ahmedabad,Ahmedabad,"16, Ahmedabad Community Road",22.944239,72.639566,pastor-292,new,2013-07-25,2025-06-01
+church-293,Grace Church Ahmedabad 8,Gujarat,Ahmedabad,Ahmedabad,"17, Ahmedabad Community Road",22.933231,72.5294,pastor-293,growing,2024-01-17,2026-07-17
+church-294,Living Waters Church Ahmedabad 9,Gujarat,Ahmedabad,Ahmedabad,"18, Ahmedabad Community Road",22.999815,72.482551,pastor-294,active,2022-03-11,2025-11-20
+church-295,Hope Church Ahmedabad 10,Gujarat,Ahmedabad,Ahmedabad,"19, Ahmedabad Community Road",23.022477,72.590785,pastor-295,new,2014-10-19,2026-11-21
+church-296,Harvest Church Ahmedabad 11,Gujarat,Ahmedabad,Ahmedabad,"20, Ahmedabad Community Road",23.049248,72.605906,pastor-296,active,2023-04-16,2026-01-12
+church-297,Redeemer Church Ahmedabad 12,Gujarat,Ahmedabad,Ahmedabad,"21, Ahmedabad Community Road",23.048209,72.636477,pastor-297,new,2017-12-07,2024-12-10
+church-298,Faith Church Ahmedabad 13,Gujarat,Ahmedabad,Ahmedabad,"22, Ahmedabad Community Road",23.033959,72.522996,pastor-298,growing,2020-11-17,2025-04-27
+church-299,Cornerstone Church Ahmedabad 14,Gujarat,Ahmedabad,Ahmedabad,"23, Ahmedabad Community Road",22.990063,72.578714,pastor-299,growing,2024-06-26,2025-12-22
+church-300,New Life Church Ahmedabad 15,Gujarat,Ahmedabad,Ahmedabad,"24, Ahmedabad Community Road",22.961846,72.56929,pastor-300,new,2014-01-28,2026-01-22

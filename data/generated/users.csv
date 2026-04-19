@@ -1,0 +1,5 @@
+userId,role,churchId,displayName,email
+user-super-admin,super_admin,,National Admin,admin@ngo.demo
+user-leader-delhi,church_leader,church-001,Pastor Samuel Delhi,leader.delhi@ngo.demo
+user-leader-mumbai,church_leader,church-016,Pastor Daniel Mumbai,leader.mumbai@ngo.demo
+user-leader-bengaluru,church_leader,church-031,Pastor Joshua Bengaluru,leader.bengaluru@ngo.demo

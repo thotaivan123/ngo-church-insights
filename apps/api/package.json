@@ -1,0 +1,31 @@
+{
+  "name": "@ngo/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsup src/server.ts src/lambda.ts --format esm --out-dir dist --splitting false --clean",
+    "lint": "tsc --noEmit",
+    "generate:seed": "tsx src/scripts/generate-seed.ts",
+    "reset:local-db": "tsx src/scripts/reset-local-db.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.918.0",
+    "@aws-sdk/client-s3": "^3.918.0",
+    "@aws-sdk/client-secrets-manager": "^3.918.0",
+    "@aws-sdk/lib-dynamodb": "^3.918.0",
+    "@hono/node-server": "^1.19.6",
+    "@ngo/shared": "0.1.0",
+    "aws-jwt-verify": "^5.1.1",
+    "hono": "^4.10.5",
+    "openai": "^6.4.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.2",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.6",
+    "typescript": "~6.0.2"
+  }
+}

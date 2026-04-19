@@ -1,0 +1,301 @@
+pastorId,churchId,fullName,phone,joinedAt,baptized,notes
+pastor-001,church-001,Joseph D'Souza,8586415117,2016-06-28,true,Oversees youth and outreach programs.
+pastor-002,church-002,David D'Souza,9722875439,2018-05-04,true,Leads weekly services and community care.
+pastor-003,church-003,Isaac George,9999546693,2012-04-13,true,Leads weekly services and community care.
+pastor-004,church-004,Moses Raj,7621240024,2014-04-02,true,Leads weekly services and community care.
+pastor-005,church-005,Moses Varghese,8459124719,2020-01-04,true,Oversees youth and outreach programs.
+pastor-006,church-006,Moses Varghese,7542090397,2021-06-05,true,Leads weekly services and community care.
+pastor-007,church-007,Rohan George,8165092108,2020-10-17,true,Leads weekly services and community care.
+pastor-008,church-008,Rohan George,9917324058,2023-08-03,true,Leads weekly services and community care.
+pastor-009,church-009,Daniel D'Souza,9448694495,2010-02-22,true,Oversees youth and outreach programs.
+pastor-010,church-010,Joseph Joseph,9424399646,2017-05-03,true,Leads weekly services and community care.
+pastor-011,church-011,Aarav Mathew,7311315339,2016-02-18,true,Leads weekly services and community care.
+pastor-012,church-012,Aarav Singh,9026808420,2021-08-23,true,Leads weekly services and community care.
+pastor-013,church-013,Daniel D'Souza,7412834827,2024-11-26,true,Oversees youth and outreach programs.
+pastor-014,church-014,Aarav Singh,9884531136,2017-08-13,true,Leads weekly services and community care.
+pastor-015,church-015,Moses Nair,7079040137,2011-09-05,true,Leads weekly services and community care.
+pastor-016,church-016,Arjun Das,7395312680,2013-07-03,true,Oversees youth and outreach programs.
+pastor-017,church-017,Noah Nair,8621286684,2018-06-12,true,Leads weekly services and community care.
+pastor-018,church-018,Rohan Paul,9626171948,2023-09-04,true,Leads weekly services and community care.
+pastor-019,church-019,Moses Mathew,8364559142,2020-10-24,true,Leads weekly services and community care.
+pastor-020,church-020,David D'Souza,7190904346,2024-11-28,true,Oversees youth and outreach programs.
+pastor-021,church-021,Samuel Paul,7190255926,2023-05-22,true,Leads weekly services and community care.
+pastor-022,church-022,Nathan Nair,9184885088,2017-03-21,true,Leads weekly services and community care.
+pastor-023,church-023,Aarav Paul,9762112775,2025-12-03,true,Leads weekly services and community care.
+pastor-024,church-024,Aarav D'Souza,9346739508,2019-01-08,true,Oversees youth and outreach programs.
+pastor-025,church-025,Arjun Raj,9932312021,2010-10-23,true,Leads weekly services and community care.
+pastor-026,church-026,Arjun George,7173128808,2011-05-03,true,Leads weekly services and community care.
+pastor-027,church-027,Rohan Raj,9187715786,2020-09-02,true,Leads weekly services and community care.
+pastor-028,church-028,Moses Raj,7333655987,2019-09-25,true,Oversees youth and outreach programs.
+pastor-029,church-029,Samuel Mathew,7653573498,2018-06-01,true,Leads weekly services and community care.
+pastor-030,church-030,Joseph Mathew,7066774605,2014-06-04,true,Leads weekly services and community care.
+pastor-031,church-031,Samuel D'Souza,7473073393,2013-08-03,true,Oversees youth and outreach programs.
+pastor-032,church-032,Isaac George,9675306132,2022-03-17,true,Leads weekly services and community care.
+pastor-033,church-033,Joseph Nair,9783350540,2011-10-26,true,Leads weekly services and community care.
+pastor-034,church-034,Daniel George,7342946344,2014-09-22,true,Leads weekly services and community care.
+pastor-035,church-035,Moses George,7172605634,2021-12-16,true,Oversees youth and outreach programs.
+pastor-036,church-036,Samuel Joseph,9405504404,2018-12-24,true,Leads weekly services and community care.
+pastor-037,church-037,Nathan Paul,7215957255,2014-03-16,true,Leads weekly services and community care.
+pastor-038,church-038,Arjun Singh,9635065006,2011-09-15,true,Leads weekly services and community care.
+pastor-039,church-039,Daniel D'Souza,9251619562,2023-08-05,true,Oversees youth and outreach programs.
+pastor-040,church-040,Isaac Mathew,9358287006,2011-09-22,true,Leads weekly services and community care.
+pastor-041,church-041,Nathan Paul,9910286820,2016-01-01,true,Leads weekly services and community care.
+pastor-042,church-042,Joseph Joseph,7311171841,2024-11-27,true,Leads weekly services and community care.
+pastor-043,church-043,Rohan George,8089756303,2017-05-16,true,Oversees youth and outreach programs.
+pastor-044,church-044,Aarav Kumar,9918638831,2024-11-05,true,Leads weekly services and community care.
+pastor-045,church-045,Joshua Kumar,8149892057,2012-07-16,true,Leads weekly services and community care.
+pastor-046,church-046,Daniel Singh,9307884339,2018-01-27,true,Oversees youth and outreach programs.
+pastor-047,church-047,David Das,9078759328,2024-07-20,true,Leads weekly services and community care.
+pastor-048,church-048,Samuel D'Souza,8788841692,2016-07-27,true,Leads weekly services and community care.
+pastor-049,church-049,Samuel Joseph,8799755817,2018-09-26,true,Leads weekly services and community care.
+pastor-050,church-050,Aarav Nair,7773761406,2021-01-22,true,Oversees youth and outreach programs.
+pastor-051,church-051,Daniel Raj,9300517811,2010-06-26,true,Leads weekly services and community care.
+pastor-052,church-052,Daniel Mathew,8205455988,2010-10-07,true,Leads weekly services and community care.
+pastor-053,church-053,Samuel Paul,8454290634,2015-02-02,true,Leads weekly services and community care.
+pastor-054,church-054,Isaac Joseph,7030106956,2015-04-08,true,Oversees youth and outreach programs.
+pastor-055,church-055,Noah Paul,8192871172,2025-01-04,true,Leads weekly services and community care.
+pastor-056,church-056,Isaac Singh,8817299929,2019-10-11,true,Leads weekly services and community care.
+pastor-057,church-057,Nathan George,9158542413,2022-09-12,true,Leads weekly services and community care.
+pastor-058,church-058,Nathan Raj,9319777770,2025-12-11,true,Oversees youth and outreach programs.
+pastor-059,church-059,Arjun D'Souza,7649854480,2020-08-02,true,Leads weekly services and community care.
+pastor-060,church-060,Moses Das,7264275993,2015-04-27,true,Leads weekly services and community care.
+pastor-061,church-061,Rohan Raj,9667944324,2010-02-01,true,Oversees youth and outreach programs.
+pastor-062,church-062,Samuel Paul,9127776415,2017-10-09,true,Leads weekly services and community care.
+pastor-063,church-063,David Varghese,8813469799,2013-06-22,true,Leads weekly services and community care.
+pastor-064,church-064,Arjun George,7180230781,2017-09-10,true,Leads weekly services and community care.
+pastor-065,church-065,Rohan Joseph,8538668022,2011-02-05,true,Oversees youth and outreach programs.
+pastor-066,church-066,Arjun Joseph,7523472626,2015-05-14,true,Leads weekly services and community care.
+pastor-067,church-067,Nathan Fernandes,7227657913,2018-10-21,true,Leads weekly services and community care.
+pastor-068,church-068,Joshua D'Souza,8197687981,2010-03-10,true,Leads weekly services and community care.
+pastor-069,church-069,Samuel George,9896165586,2022-04-21,true,Oversees youth and outreach programs.
+pastor-070,church-070,Nathan Varghese,9287942349,2021-10-18,true,Leads weekly services and community care.
+pastor-071,church-071,Nathan D'Souza,9559921151,2019-02-16,true,Leads weekly services and community care.
+pastor-072,church-072,Daniel Singh,7167425136,2016-05-09,true,Leads weekly services and community care.
+pastor-073,church-073,Arjun Fernandes,9194342021,2017-08-24,true,Oversees youth and outreach programs.
+pastor-074,church-074,Samuel Joseph,8350353814,2013-02-19,true,Leads weekly services and community care.
+pastor-075,church-075,Samuel D'Souza,7053999634,2020-11-27,true,Leads weekly services and community care.
+pastor-076,church-076,Nathan Singh,9064289901,2019-05-22,true,Oversees youth and outreach programs.
+pastor-077,church-077,Joseph Paul,8340439096,2012-12-13,true,Leads weekly services and community care.
+pastor-078,church-078,Noah Das,8938470265,2022-09-05,true,Leads weekly services and community care.
+pastor-079,church-079,Aarav George,9809396134,2023-04-14,true,Leads weekly services and community care.
+pastor-080,church-080,Aarav Paul,9927926565,2023-01-02,true,Oversees youth and outreach programs.
+pastor-081,church-081,Aarav Joseph,7737568153,2012-09-13,true,Leads weekly services and community care.
+pastor-082,church-082,Aarav Raj,9132037614,2016-02-16,true,Leads weekly services and community care.
+pastor-083,church-083,Aarav Das,8530838042,2015-04-07,true,Leads weekly services and community care.
+pastor-084,church-084,Rohan Mathew,7761265511,2012-07-08,true,Oversees youth and outreach programs.
+pastor-085,church-085,Aarav Raj,8909490684,2017-06-16,true,Leads weekly services and community care.
+pastor-086,church-086,Isaac Joseph,9400460181,2025-04-04,true,Leads weekly services and community care.
+pastor-087,church-087,Daniel D'Souza,8158382701,2021-10-06,true,Leads weekly services and community care.
+pastor-088,church-088,Samuel Das,7104406291,2013-12-07,true,Oversees youth and outreach programs.
+pastor-089,church-089,Joshua Mathew,9479871271,2016-06-26,true,Leads weekly services and community care.
+pastor-090,church-090,David Mathew,7879875350,2021-12-27,true,Leads weekly services and community care.
+pastor-091,church-091,David Raj,7818420393,2020-10-27,true,Oversees youth and outreach programs.
+pastor-092,church-092,Aarav D'Souza,8802784507,2019-04-19,true,Leads weekly services and community care.
+pastor-093,church-093,Joshua Das,7999963968,2018-06-24,true,Leads weekly services and community care.
+pastor-094,church-094,Arjun Das,9531955594,2013-11-24,true,Leads weekly services and community care.
+pastor-095,church-095,David Nair,8046313932,2016-11-20,true,Oversees youth and outreach programs.
+pastor-096,church-096,Daniel D'Souza,8282291227,2016-04-17,true,Leads weekly services and community care.
+pastor-097,church-097,Joseph Raj,7093689062,2023-03-13,true,Leads weekly services and community care.
+pastor-098,church-098,Arjun George,8420013345,2023-01-07,true,Leads weekly services and community care.
+pastor-099,church-099,Joshua Mathew,8627559982,2012-06-08,true,Oversees youth and outreach programs.
+pastor-100,church-100,Aarav Fernandes,8364236797,2022-12-27,true,Leads weekly services and community care.
+pastor-101,church-101,Isaac Raj,9340220696,2011-06-01,true,Leads weekly services and community care.
+pastor-102,church-102,Rohan Das,9692563527,2023-12-23,true,Leads weekly services and community care.
+pastor-103,church-103,Moses Mathew,8140296376,2013-05-04,true,Oversees youth and outreach programs.
+pastor-104,church-104,Arjun Kumar,8161898683,2023-06-11,true,Leads weekly services and community care.
+pastor-105,church-105,Joseph Varghese,9055278445,2011-12-06,true,Leads weekly services and community care.
+pastor-106,church-106,Noah Singh,8534279146,2016-03-01,true,Oversees youth and outreach programs.
+pastor-107,church-107,Nathan D'Souza,8620007497,2024-08-06,true,Leads weekly services and community care.
+pastor-108,church-108,Isaac Paul,8633778842,2025-06-22,true,Leads weekly services and community care.
+pastor-109,church-109,Nathan Joseph,9438763939,2020-04-22,true,Leads weekly services and community care.
+pastor-110,church-110,Aarav George,9486287795,2021-06-16,true,Oversees youth and outreach programs.
+pastor-111,church-111,Aarav Joseph,8984191592,2012-02-09,true,Leads weekly services and community care.
+pastor-112,church-112,Daniel Joseph,7547886425,2015-05-22,true,Leads weekly services and community care.
+pastor-113,church-113,Joshua Das,9845415175,2024-01-10,true,Leads weekly services and community care.
+pastor-114,church-114,Joshua Singh,9683226831,2011-09-09,true,Oversees youth and outreach programs.
+pastor-115,church-115,Samuel George,8315365795,2023-08-15,true,Leads weekly services and community care.
+pastor-116,church-116,Nathan Raj,7589094174,2013-12-05,true,Leads weekly services and community care.
+pastor-117,church-117,Arjun Varghese,9491552815,2013-06-13,true,Leads weekly services and community care.
+pastor-118,church-118,Samuel D'Souza,8577165279,2022-09-14,true,Oversees youth and outreach programs.
+pastor-119,church-119,Aarav Joseph,8716163665,2020-12-13,true,Leads weekly services and community care.
+pastor-120,church-120,Isaac Raj,8525868851,2011-12-16,true,Leads weekly services and community care.
+pastor-121,church-121,Joshua Varghese,9501983820,2013-06-17,true,Oversees youth and outreach programs.
+pastor-122,church-122,Samuel Paul,7293074066,2025-09-16,true,Leads weekly services and community care.
+pastor-123,church-123,Joseph Paul,7083455699,2025-06-14,true,Leads weekly services and community care.
+pastor-124,church-124,Arjun Fernandes,9267936330,2019-11-10,true,Leads weekly services and community care.
+pastor-125,church-125,Samuel Nair,9571980164,2024-05-27,true,Oversees youth and outreach programs.
+pastor-126,church-126,Isaac George,9157391635,2014-03-18,true,Leads weekly services and community care.
+pastor-127,church-127,Rohan Fernandes,7245740895,2017-07-08,true,Leads weekly services and community care.
+pastor-128,church-128,Daniel Singh,7260420984,2011-10-05,true,Leads weekly services and community care.
+pastor-129,church-129,Moses Paul,8569602195,2018-10-28,true,Oversees youth and outreach programs.
+pastor-130,church-130,Joseph Joseph,8612121625,2014-01-12,true,Leads weekly services and community care.
+pastor-131,church-131,Noah Das,7886506920,2022-12-19,true,Leads weekly services and community care.
+pastor-132,church-132,David Varghese,8382745065,2016-08-05,true,Leads weekly services and community care.
+pastor-133,church-133,Samuel Fernandes,9041407583,2011-07-08,true,Oversees youth and outreach programs.
+pastor-134,church-134,Samuel Mathew,8447944573,2017-02-21,true,Leads weekly services and community care.
+pastor-135,church-135,Joshua Joseph,7444902873,2018-01-12,true,Leads weekly services and community care.
+pastor-136,church-136,Isaac Singh,7831372835,2017-08-23,true,Oversees youth and outreach programs.
+pastor-137,church-137,Moses Kumar,8318564103,2019-06-24,true,Leads weekly services and community care.
+pastor-138,church-138,Aarav Mathew,8884430550,2023-06-16,true,Leads weekly services and community care.
+pastor-139,church-139,Joshua Singh,9430870645,2023-03-19,true,Leads weekly services and community care.
+pastor-140,church-140,Moses Joseph,9758515235,2022-02-26,true,Oversees youth and outreach programs.
+pastor-141,church-141,Joshua Kumar,8500604504,2022-05-17,true,Leads weekly services and community care.
+pastor-142,church-142,David Raj,7064708575,2021-02-12,true,Leads weekly services and community care.
+pastor-143,church-143,David Paul,7031002988,2012-03-22,true,Leads weekly services and community care.
+pastor-144,church-144,Isaac Paul,8532776579,2013-09-05,true,Oversees youth and outreach programs.
+pastor-145,church-145,Isaac Mathew,7030259585,2013-05-27,true,Leads weekly services and community care.
+pastor-146,church-146,Noah Mathew,8121544061,2011-02-20,true,Leads weekly services and community care.
+pastor-147,church-147,Samuel D'Souza,7060414156,2019-06-16,true,Leads weekly services and community care.
+pastor-148,church-148,Joseph D'Souza,7926272510,2023-11-02,true,Oversees youth and outreach programs.
+pastor-149,church-149,David D'Souza,9686080869,2014-12-20,true,Leads weekly services and community care.
+pastor-150,church-150,Daniel Joseph,8079625325,2011-08-04,true,Leads weekly services and community care.
+pastor-151,church-151,Nathan Raj,7616037294,2023-02-02,true,Oversees youth and outreach programs.
+pastor-152,church-152,David Paul,7502592970,2012-05-01,true,Leads weekly services and community care.
+pastor-153,church-153,Samuel Mathew,9041058953,2020-07-04,true,Leads weekly services and community care.
+pastor-154,church-154,Isaac George,7487162596,2021-06-09,true,Leads weekly services and community care.
+pastor-155,church-155,Arjun Fernandes,7211391428,2017-04-14,true,Oversees youth and outreach programs.
+pastor-156,church-156,David Joseph,8354979074,2018-03-06,true,Leads weekly services and community care.
+pastor-157,church-157,Rohan George,8286015850,2011-09-20,true,Leads weekly services and community care.
+pastor-158,church-158,Daniel Joseph,9322724703,2025-06-21,true,Leads weekly services and community care.
+pastor-159,church-159,Isaac Mathew,7899064367,2012-03-12,true,Oversees youth and outreach programs.
+pastor-160,church-160,Aarav George,7687031343,2017-04-08,true,Leads weekly services and community care.
+pastor-161,church-161,Samuel Das,9979754537,2019-03-01,true,Leads weekly services and community care.
+pastor-162,church-162,Noah Raj,9932708341,2021-06-24,true,Leads weekly services and community care.
+pastor-163,church-163,Aarav Joseph,9859614354,2010-06-25,true,Oversees youth and outreach programs.
+pastor-164,church-164,Samuel Raj,9471557282,2016-10-19,true,Leads weekly services and community care.
+pastor-165,church-165,Joseph D'Souza,9449069732,2014-01-15,true,Leads weekly services and community care.
+pastor-166,church-166,Rohan Fernandes,9504895894,2014-12-05,true,Oversees youth and outreach programs.
+pastor-167,church-167,Aarav Paul,9651815809,2023-11-24,true,Leads weekly services and community care.
+pastor-168,church-168,Isaac Kumar,7400065692,2012-05-11,true,Leads weekly services and community care.
+pastor-169,church-169,David Kumar,8872913035,2021-08-22,true,Leads weekly services and community care.
+pastor-170,church-170,Daniel Das,8084905964,2014-10-26,true,Oversees youth and outreach programs.
+pastor-171,church-171,Noah Das,9570390286,2024-08-02,true,Leads weekly services and community care.
+pastor-172,church-172,David Kumar,9328879327,2016-01-09,true,Leads weekly services and community care.
+pastor-173,church-173,Daniel Raj,8069472787,2020-07-05,true,Leads weekly services and community care.
+pastor-174,church-174,Nathan Das,8951543410,2018-03-26,true,Oversees youth and outreach programs.
+pastor-175,church-175,Nathan Singh,7660594098,2017-06-17,true,Leads weekly services and community care.
+pastor-176,church-176,Joseph Das,8268573052,2015-02-10,true,Leads weekly services and community care.
+pastor-177,church-177,Moses Varghese,8105272132,2021-01-05,true,Leads weekly services and community care.
+pastor-178,church-178,Arjun Joseph,9994370914,2021-02-17,true,Oversees youth and outreach programs.
+pastor-179,church-179,David Kumar,7213299240,2021-04-10,true,Leads weekly services and community care.
+pastor-180,church-180,Rohan Joseph,9763653674,2023-11-10,true,Leads weekly services and community care.
+pastor-181,church-181,Joshua D'Souza,7380494438,2010-03-02,true,Oversees youth and outreach programs.
+pastor-182,church-182,Samuel Raj,9439681017,2011-11-12,true,Leads weekly services and community care.
+pastor-183,church-183,Daniel Raj,7809081747,2024-03-24,true,Leads weekly services and community care.
+pastor-184,church-184,Daniel Mathew,8362105790,2024-06-17,true,Leads weekly services and community care.
+pastor-185,church-185,Aarav Varghese,8917831834,2014-02-27,true,Oversees youth and outreach programs.
+pastor-186,church-186,Arjun Fernandes,8669536625,2018-12-05,true,Leads weekly services and community care.
+pastor-187,church-187,Rohan Mathew,7661217165,2017-10-18,true,Leads weekly services and community care.
+pastor-188,church-188,Aarav Das,8183208054,2011-08-24,true,Leads weekly services and community care.
+pastor-189,church-189,Arjun Mathew,8664675464,2010-08-08,true,Oversees youth and outreach programs.
+pastor-190,church-190,Samuel Paul,7071680454,2010-06-26,true,Leads weekly services and community care.
+pastor-191,church-191,Aarav D'Souza,8846502481,2017-07-17,true,Leads weekly services and community care.
+pastor-192,church-192,Aarav Paul,9097780970,2010-02-21,true,Leads weekly services and community care.
+pastor-193,church-193,Rohan Raj,8723589548,2024-10-20,true,Oversees youth and outreach programs.
+pastor-194,church-194,Samuel Raj,9786247231,2011-05-20,true,Leads weekly services and community care.
+pastor-195,church-195,Noah D'Souza,7043210445,2014-05-19,true,Leads weekly services and community care.
+pastor-196,church-196,Joseph Raj,9116632609,2019-12-19,true,Oversees youth and outreach programs.
+pastor-197,church-197,Joshua Fernandes,7266309879,2020-06-28,true,Leads weekly services and community care.
+pastor-198,church-198,Joseph Singh,9632630166,2012-12-06,true,Leads weekly services and community care.
+pastor-199,church-199,Isaac Nair,7701998580,2013-08-07,true,Leads weekly services and community care.
+pastor-200,church-200,David Varghese,7552516258,2016-02-09,true,Oversees youth and outreach programs.
+pastor-201,church-201,Aarav Fernandes,7405411061,2024-02-11,true,Leads weekly services and community care.
+pastor-202,church-202,Daniel Nair,9346627277,2015-04-07,true,Leads weekly services and community care.
+pastor-203,church-203,Isaac Paul,8981823986,2010-11-14,true,Leads weekly services and community care.
+pastor-204,church-204,Noah Kumar,9581478807,2020-06-24,true,Oversees youth and outreach programs.
+pastor-205,church-205,David Das,9401950282,2023-03-14,true,Leads weekly services and community care.
+pastor-206,church-206,Daniel D'Souza,9421133775,2024-04-11,true,Leads weekly services and community care.
+pastor-207,church-207,Nathan George,7556207944,2019-11-04,true,Leads weekly services and community care.
+pastor-208,church-208,Arjun Raj,7668726681,2018-11-11,true,Oversees youth and outreach programs.
+pastor-209,church-209,David Paul,7524177052,2020-10-02,true,Leads weekly services and community care.
+pastor-210,church-210,Isaac Nair,9418284810,2017-01-04,true,Leads weekly services and community care.
+pastor-211,church-211,Samuel Fernandes,9903164478,2023-03-28,true,Oversees youth and outreach programs.
+pastor-212,church-212,Samuel Raj,9712454410,2021-11-26,true,Leads weekly services and community care.
+pastor-213,church-213,Joseph Singh,9719083643,2022-02-23,true,Leads weekly services and community care.
+pastor-214,church-214,Isaac Das,7446995783,2015-07-22,true,Leads weekly services and community care.
+pastor-215,church-215,Joshua Varghese,7346932098,2011-05-04,true,Oversees youth and outreach programs.
+pastor-216,church-216,Noah Paul,7470407319,2015-03-02,true,Leads weekly services and community care.
+pastor-217,church-217,Isaac Nair,8781696667,2016-04-08,true,Leads weekly services and community care.
+pastor-218,church-218,Joseph Varghese,9780848484,2022-09-08,true,Leads weekly services and community care.
+pastor-219,church-219,Isaac Kumar,9076999500,2014-12-06,true,Oversees youth and outreach programs.
+pastor-220,church-220,Samuel Kumar,9570586675,2019-02-16,true,Leads weekly services and community care.
+pastor-221,church-221,Nathan George,7596902714,2017-04-28,true,Leads weekly services and community care.
+pastor-222,church-222,Joseph Joseph,7641533861,2019-11-14,true,Leads weekly services and community care.
+pastor-223,church-223,Moses George,8986288222,2016-12-16,true,Oversees youth and outreach programs.
+pastor-224,church-224,Joseph Mathew,8266861669,2010-05-02,true,Leads weekly services and community care.
+pastor-225,church-225,Arjun George,8799460409,2025-05-19,true,Leads weekly services and community care.
+pastor-226,church-226,Rohan Nair,8807057745,2016-01-21,true,Oversees youth and outreach programs.
+pastor-227,church-227,Isaac Paul,7880940827,2018-11-03,true,Leads weekly services and community care.
+pastor-228,church-228,David George,9284676444,2011-06-01,true,Leads weekly services and community care.
+pastor-229,church-229,Nathan Nair,7606447967,2023-10-27,true,Leads weekly services and community care.
+pastor-230,church-230,Noah Mathew,9554098280,2024-09-11,true,Oversees youth and outreach programs.
+pastor-231,church-231,Daniel Joseph,9431259998,2023-12-04,true,Leads weekly services and community care.
+pastor-232,church-232,Joseph Paul,7425456453,2016-12-09,true,Leads weekly services and community care.
+pastor-233,church-233,Moses Varghese,8800172399,2015-02-09,true,Leads weekly services and community care.
+pastor-234,church-234,Isaac Mathew,8191324401,2017-02-18,true,Oversees youth and outreach programs.
+pastor-235,church-235,Moses Paul,8188994220,2025-01-27,true,Leads weekly services and community care.
+pastor-236,church-236,Joseph Das,8153043915,2016-07-11,true,Leads weekly services and community care.
+pastor-237,church-237,Moses Fernandes,9320739197,2012-11-15,true,Leads weekly services and community care.
+pastor-238,church-238,Arjun Das,7316372933,2012-01-10,true,Oversees youth and outreach programs.
+pastor-239,church-239,Arjun Raj,8505702382,2020-11-20,true,Leads weekly services and community care.
+pastor-240,church-240,Isaac Paul,7635461804,2019-04-17,true,Leads weekly services and community care.
+pastor-241,church-241,Joshua D'Souza,7969917041,2021-04-11,true,Oversees youth and outreach programs.
+pastor-242,church-242,Aarav Singh,9891851753,2014-05-12,true,Leads weekly services and community care.
+pastor-243,church-243,Joseph Joseph,9007592978,2020-01-16,true,Leads weekly services and community care.
+pastor-244,church-244,Aarav George,7748065639,2024-09-19,true,Leads weekly services and community care.
+pastor-245,church-245,Rohan Raj,9636098272,2018-11-28,true,Oversees youth and outreach programs.
+pastor-246,church-246,David Paul,9766768315,2014-08-28,true,Leads weekly services and community care.
+pastor-247,church-247,Daniel Paul,8337015049,2022-03-07,true,Leads weekly services and community care.
+pastor-248,church-248,Arjun George,8768515078,2016-05-04,true,Leads weekly services and community care.
+pastor-249,church-249,Aarav D'Souza,8233272094,2021-08-23,true,Oversees youth and outreach programs.
+pastor-250,church-250,David George,8551303975,2018-05-26,true,Leads weekly services and community care.
+pastor-251,church-251,Nathan Singh,8829468667,2010-11-19,true,Leads weekly services and community care.
+pastor-252,church-252,Rohan Joseph,9017336093,2018-02-08,true,Leads weekly services and community care.
+pastor-253,church-253,David D'Souza,7379026407,2015-08-12,true,Oversees youth and outreach programs.
+pastor-254,church-254,Daniel Fernandes,9293383925,2023-01-26,true,Leads weekly services and community care.
+pastor-255,church-255,Nathan Raj,9255332738,2013-02-11,true,Leads weekly services and community care.
+pastor-256,church-256,Joseph George,8751877426,2010-09-05,true,Oversees youth and outreach programs.
+pastor-257,church-257,Joshua Nair,8495840389,2012-06-25,true,Leads weekly services and community care.
+pastor-258,church-258,Isaac Das,7900621981,2022-03-26,true,Leads weekly services and community care.
+pastor-259,church-259,Joseph Singh,8226599574,2011-01-08,true,Leads weekly services and community care.
+pastor-260,church-260,Moses Varghese,9704753027,2020-12-06,true,Oversees youth and outreach programs.
+pastor-261,church-261,Moses Raj,7100912615,2011-05-21,true,Leads weekly services and community care.
+pastor-262,church-262,Daniel D'Souza,7590499689,2015-08-03,true,Leads weekly services and community care.
+pastor-263,church-263,Aarav Nair,9451603253,2016-08-01,true,Leads weekly services and community care.
+pastor-264,church-264,Nathan Singh,9636510383,2013-04-09,true,Oversees youth and outreach programs.
+pastor-265,church-265,Aarav Das,9352935467,2025-06-05,true,Leads weekly services and community care.
+pastor-266,church-266,Isaac Das,9773821380,2022-10-12,true,Leads weekly services and community care.
+pastor-267,church-267,Nathan George,7420366233,2024-06-20,true,Leads weekly services and community care.
+pastor-268,church-268,Joshua George,9309425066,2020-07-12,true,Oversees youth and outreach programs.
+pastor-269,church-269,Isaac Mathew,7439166042,2020-04-18,true,Leads weekly services and community care.
+pastor-270,church-270,Noah Fernandes,9721066260,2013-07-25,true,Leads weekly services and community care.
+pastor-271,church-271,David Das,7636387219,2025-08-20,true,Oversees youth and outreach programs.
+pastor-272,church-272,Samuel George,7543571790,2018-07-15,true,Leads weekly services and community care.
+pastor-273,church-273,Moses D'Souza,9375507313,2014-01-06,true,Leads weekly services and community care.
+pastor-274,church-274,David Kumar,7884653747,2013-06-23,true,Leads weekly services and community care.
+pastor-275,church-275,Isaac Raj,9643049664,2020-01-02,true,Oversees youth and outreach programs.
+pastor-276,church-276,David George,9191780126,2025-06-15,true,Leads weekly services and community care.
+pastor-277,church-277,Noah Varghese,7164628705,2018-07-03,true,Leads weekly services and community care.
+pastor-278,church-278,Isaac Kumar,7210732544,2011-10-14,true,Leads weekly services and community care.
+pastor-279,church-279,Rohan Varghese,9881202986,2018-02-05,true,Oversees youth and outreach programs.
+pastor-280,church-280,Nathan Paul,7880314212,2020-12-27,true,Leads weekly services and community care.
+pastor-281,church-281,Daniel Mathew,7790021226,2022-03-03,true,Leads weekly services and community care.
+pastor-282,church-282,Joshua Varghese,9992413582,2013-09-06,true,Leads weekly services and community care.
+pastor-283,church-283,Joseph Varghese,7637709186,2022-04-10,true,Oversees youth and outreach programs.
+pastor-284,church-284,Aarav Varghese,8752168164,2025-11-04,true,Leads weekly services and community care.
+pastor-285,church-285,Noah George,8006711767,2019-01-21,true,Leads weekly services and community care.
+pastor-286,church-286,Samuel D'Souza,8523009687,2021-07-16,true,Oversees youth and outreach programs.
+pastor-287,church-287,Aarav Kumar,7061648337,2024-03-14,true,Leads weekly services and community care.
+pastor-288,church-288,Moses George,7659682465,2010-06-21,true,Leads weekly services and community care.
+pastor-289,church-289,Nathan Nair,7571733397,2016-06-15,true,Leads weekly services and community care.
+pastor-290,church-290,Joshua Nair,7213045334,2020-08-06,true,Oversees youth and outreach programs.
+pastor-291,church-291,David Varghese,7080916589,2015-10-04,true,Leads weekly services and community care.
+pastor-292,church-292,Joshua Joseph,8907224605,2013-08-25,true,Leads weekly services and community care.
+pastor-293,church-293,Rohan Raj,7364114967,2018-07-14,true,Leads weekly services and community care.
+pastor-294,church-294,Nathan Varghese,9128505348,2012-09-15,true,Oversees youth and outreach programs.
+pastor-295,church-295,Joshua George,7669396002,2021-07-11,true,Leads weekly services and community care.
+pastor-296,church-296,Daniel Singh,8414830458,2014-11-11,true,Leads weekly services and community care.
+pastor-297,church-297,Moses Raj,7806917360,2012-06-09,true,Leads weekly services and community care.
+pastor-298,church-298,Joshua Fernandes,7526201816,2018-06-13,true,Oversees youth and outreach programs.
+pastor-299,church-299,Isaac D'Souza,7880787655,2012-07-01,true,Leads weekly services and community care.
+pastor-300,church-300,Aarav Nair,7843034741,2014-04-23,true,Leads weekly services and community care.

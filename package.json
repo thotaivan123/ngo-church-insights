@@ -1,0 +1,23 @@
+{
+  "name": "ngo-church-insights",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Demo-first AWS church insights prototype for NGO operations and analytics.",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace @ngo/api\" \"npm run dev --workspace @ngo/web\"",
+    "dev:web": "npm run dev --workspace @ngo/web",
+    "dev:api": "npm run dev --workspace @ngo/api",
+    "build": "npm run build --workspace @ngo/shared && npm run build --workspace @ngo/api && npm run build --workspace @ngo/web",
+    "lint": "npm run lint --workspace @ngo/api && npm run lint --workspace @ngo/web",
+    "generate:seed": "npm run generate:seed --workspace @ngo/api",
+    "reset:local-db": "npm run reset:local-db --workspace @ngo/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

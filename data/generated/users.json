@@ -1,0 +1,30 @@
+[
+  {
+    "userId": "user-super-admin",
+    "role": "super_admin",
+    "churchId": null,
+    "displayName": "National Admin",
+    "email": "admin@ngo.demo"
+  },
+  {
+    "userId": "user-leader-delhi",
+    "role": "church_leader",
+    "churchId": "church-001",
+    "displayName": "Pastor Samuel Delhi",
+    "email": "leader.delhi@ngo.demo"
+  },
+  {
+    "userId": "user-leader-mumbai",
+    "role": "church_leader",
+    "churchId": "church-016",
+    "displayName": "Pastor Daniel Mumbai",
+    "email": "leader.mumbai@ngo.demo"
+  },
+  {
+    "userId": "user-leader-bengaluru",
+    "role": "church_leader",
+    "churchId": "church-031",
+    "displayName": "Pastor Joshua Bengaluru",
+    "email": "leader.bengaluru@ngo.demo"
+  }
+]

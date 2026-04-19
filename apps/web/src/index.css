@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  color-scheme: light;
+}
+
+body {
+  @apply m-0 min-h-screen bg-sand text-ink antialiased;
+  font-family: "Aptos", "Segoe UI", "Trebuchet MS", sans-serif;
+  background-image:
+    radial-gradient(circle at top left, rgba(15, 118, 110, 0.18), transparent 28%),
+    radial-gradient(circle at top right, rgba(242, 159, 5, 0.2), transparent 24%),
+    linear-gradient(180deg, #f8f3ea 0%, #eef5f4 42%, #f8f3ea 100%);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.panel {
+  @apply rounded-xl2 border border-white/60 bg-white/80 p-5 shadow-soft backdrop-blur;
+}
+
+.panel-muted {
+  @apply rounded-xl2 border border-slate-200/80 bg-mist/70 p-5 shadow-soft;
+}
+
+.section-title {
+  @apply text-xl font-semibold tracking-tight text-ink;
+}
+
+.section-kicker {
+  @apply text-xs font-semibold uppercase tracking-[0.24em] text-teal;
+}
+
+.metric-card {
+  @apply panel flex min-h-[130px] flex-col justify-between;
+}
+
+.filter-select,
+.text-input,
+.text-area {
+  @apply w-full rounded-xl border border-slate-200 bg-white px-3 py-2.5 text-sm text-ink outline-none transition focus:border-teal focus:ring-2 focus:ring-teal/20;
+}
+
+.text-area {
+  @apply min-h-[110px] resize-y;
+}
+
+.button-primary {
+  @apply inline-flex items-center justify-center rounded-xl bg-ink px-4 py-2.5 text-sm font-medium text-white transition hover:bg-ink/90 disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+.button-secondary {
+  @apply inline-flex items-center justify-center rounded-xl border border-slate-300 bg-white px-4 py-2.5 text-sm font-medium text-ink transition hover:border-teal hover:text-teal disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+.button-accent {
+  @apply inline-flex items-center justify-center rounded-xl bg-saffron px-4 py-2.5 text-sm font-semibold text-ink transition hover:bg-saffron/90 disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+.table-shell table {
+  @apply min-w-full border-collapse text-left text-sm;
+}
+
+.table-shell th {
+  @apply border-b border-slate-200 px-3 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-slate-500;
+}
+
+.table-shell td {
+  @apply border-b border-slate-100 px-3 py-3 align-top text-slate-700;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full px-2.5 py-1 text-xs font-semibold;
+}
+
+.leaflet-container {
+  @apply h-[420px] w-full rounded-xl2;
+}
