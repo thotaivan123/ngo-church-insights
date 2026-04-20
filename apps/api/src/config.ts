@@ -31,6 +31,8 @@ export type AppConfig = {
   openAiModel: string;
   cognitoUserPoolId: string | null;
   cognitoClientId: string | null;
+  cognitoJwksResponseTimeoutMs: number;
+  cognitoJwksSocketTimeoutMs: number;
   enableDemoAuth: boolean;
 };
 
@@ -51,5 +53,7 @@ export const getConfig = (): AppConfig => ({
   openAiModel: process.env.OPENAI_MODEL ?? "gpt-4.1-mini",
   cognitoUserPoolId: process.env.COGNITO_USER_POOL_ID ?? null,
   cognitoClientId: process.env.COGNITO_CLIENT_ID ?? null,
+  cognitoJwksResponseTimeoutMs: Number(process.env.COGNITO_JWKS_RESPONSE_TIMEOUT_MS ?? 10000),
+  cognitoJwksSocketTimeoutMs: Number(process.env.COGNITO_JWKS_SOCKET_TIMEOUT_MS ?? 5000),
   enableDemoAuth: asBoolean(process.env.ENABLE_DEMO_AUTH, true),
 });

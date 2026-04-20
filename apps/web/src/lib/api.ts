@@ -10,12 +10,14 @@ import type {
   UserProfile,
 } from "@ngo/shared";
 
+import type { AuthSession } from "@/auth/types";
+
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? "/api";
 
 type RequestOptions = {
   method?: "GET" | "POST" | "PUT";
   body?: unknown;
-  userId?: string;
+  session?: AuthSession;
 };
 
 type ChurchInput = Omit<Church, "churchId" | "createdAt" | "updatedAt">;
@@ -27,7 +29,8 @@ const request = async <T>(path: string, options: RequestOptions = {}): Promise<T
     method: options.method ?? "GET",
     headers: {
       "Content-Type": "application/json",
-      ...(options.userId ? { "x-demo-user-id": options.userId } : {}),
+      ...(options.session?.mode === "demo" ? { "x-demo-user-id": options.session.userId } : {}),
+      ...(options.session?.mode === "cognito" ? { Authorization: `Bearer ${options.session.idToken}` } : {}),
     },
     body: options.body ? JSON.stringify(options.body) : undefined,
   });
@@ -52,14 +55,14 @@ const createSearchParams = (filters: DashboardFilters): string => {
 };
 
 export const api = {
-  getMe: (userId: string) => request<UserProfile>("/me", { userId }),
-  getDashboardOverview: (filters: DashboardFilters, userId: string) => request<DashboardOverview>(`/dashboard/overview${createSearchParams(filters)}`, { userId }),
-  getChurches: (filters: DashboardFilters, userId: string) => request<ChurchListItem[]>(`/churches${createSearchParams(filters)}`, { userId }),
-  getChurchDetail: (churchId: string, userId: string) => request<ChurchDetailResponse>(`/churches/${churchId}`, { userId }),
-  updateChurch: (churchId: string, payload: Partial<ChurchInput>, userId: string) => request<Church>(`/churches/${churchId}`, { method: "PUT", body: payload, userId }),
-  createPastor: (churchId: string, payload: PastorInput, userId: string) => request<Pastor>(`/churches/${churchId}/pastors`, { method: "POST", body: payload, userId }),
-  updatePastor: (pastorId: string, payload: Partial<PastorInput>, userId: string) => request<Pastor>(`/pastors/${pastorId}`, { method: "PUT", body: payload, userId }),
-  createMember: (churchId: string, payload: MemberInput, userId: string) => request<Member>(`/churches/${churchId}/members`, { method: "POST", body: payload, userId }),
-  updateMember: (memberId: string, payload: Partial<MemberInput>, userId: string) => request<Member>(`/members/${memberId}`, { method: "PUT", body: payload, userId }),
-  getInsightSummary: (filters: DashboardFilters, userId: string) => request<InsightSummary>("/insights/summary", { method: "POST", body: { filters }, userId }),
+  getMe: (session: AuthSession) => request<UserProfile>("/me", { session }),
+  getDashboardOverview: (filters: DashboardFilters, session: AuthSession) => request<DashboardOverview>(`/dashboard/overview${createSearchParams(filters)}`, { session }),
+  getChurches: (filters: DashboardFilters, session: AuthSession) => request<ChurchListItem[]>(`/churches${createSearchParams(filters)}`, { session }),
+  getChurchDetail: (churchId: string, session: AuthSession) => request<ChurchDetailResponse>(`/churches/${churchId}`, { session }),
+  updateChurch: (churchId: string, payload: Partial<ChurchInput>, session: AuthSession) => request<Church>(`/churches/${churchId}`, { method: "PUT", body: payload, session }),
+  createPastor: (churchId: string, payload: PastorInput, session: AuthSession) => request<Pastor>(`/churches/${churchId}/pastors`, { method: "POST", body: payload, session }),
+  updatePastor: (pastorId: string, payload: Partial<PastorInput>, session: AuthSession) => request<Pastor>(`/pastors/${pastorId}`, { method: "PUT", body: payload, session }),
+  createMember: (churchId: string, payload: MemberInput, session: AuthSession) => request<Member>(`/churches/${churchId}/members`, { method: "POST", body: payload, session }),
+  updateMember: (memberId: string, payload: Partial<MemberInput>, session: AuthSession) => request<Member>(`/members/${memberId}`, { method: "PUT", body: payload, session }),
+  getInsightSummary: (filters: DashboardFilters, session: AuthSession) => request<InsightSummary>("/insights/summary", { method: "POST", body: { filters }, session }),
 };

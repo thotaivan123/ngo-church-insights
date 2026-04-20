@@ -151,7 +151,7 @@ const ChurchDetailPage = () => {
   const detailQuery = useQuery({
     queryKey: ["church-detail", churchId, session?.userId],
     enabled: Boolean(churchId && session?.userId),
-    queryFn: () => api.getChurchDetail(churchId!, session!.userId),
+    queryFn: () => api.getChurchDetail(churchId!, session!),
   });
 
   const churchForm = useForm<ChurchFormValues>({
@@ -254,7 +254,7 @@ const ChurchDetailPage = () => {
   };
 
   const churchMutation = useMutation({
-    mutationFn: (values: ChurchFormValues) => api.updateChurch(churchId!, values, session!.userId),
+    mutationFn: (values: ChurchFormValues) => api.updateChurch(churchId!, values, session!),
     onSuccess: async () => {
       await invalidateChurchData();
     },
@@ -271,10 +271,10 @@ const ChurchDetailPage = () => {
       };
 
       if (selectedPastor) {
-        return api.updatePastor(selectedPastor.pastorId, payload, session!.userId);
+        return api.updatePastor(selectedPastor.pastorId, payload, session!);
       }
 
-      return api.createPastor(churchId!, payload, session!.userId);
+      return api.createPastor(churchId!, payload, session!);
     },
     onSuccess: async (pastor) => {
       setSelectedPastorId(pastor.pastorId);
@@ -294,10 +294,10 @@ const ChurchDetailPage = () => {
       };
 
       if (selectedMember) {
-        return api.updateMember(selectedMember.memberId, payload, session!.userId);
+        return api.updateMember(selectedMember.memberId, payload, session!);
       }
 
-      return api.createMember(churchId!, payload, session!.userId);
+      return api.createMember(churchId!, payload, session!);
     },
     onSuccess: async (member) => {
       setSelectedMemberId(member.memberId);
@@ -306,7 +306,7 @@ const ChurchDetailPage = () => {
   });
 
   const summaryMutation = useMutation({
-    mutationFn: () => api.getInsightSummary({ churchId: churchId! }, session!.userId),
+    mutationFn: () => api.getInsightSummary({ churchId: churchId! }, session!),
   });
 
   const detailData = detailQuery.data;

@@ -21,7 +21,7 @@ import {
   buildDashboardOverview,
   filterChurchesForUser,
 } from "./lib/analytics";
-import { canAccessChurch, getCurrentUser } from "./lib/auth";
+import { canAccessChurch, getAuthorizationFailureReason, getCurrentUser } from "./lib/auth";
 import { summarizeDashboard } from "./lib/insights";
 import { createRepository } from "./lib/repository";
 
@@ -100,7 +100,8 @@ app.get("/health", (c) => c.json({
 app.get("/me", async (c) => {
   const user = await getCurrentUser(c, repository);
   if (!user) {
-    return c.json({ message: "Unauthorized" }, 401);
+    const reason = await getAuthorizationFailureReason(c, repository);
+    return c.json({ message: reason ?? "Unauthorized" }, 401);
   }
   return c.json(user);
 });

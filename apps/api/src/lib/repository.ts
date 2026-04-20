@@ -19,6 +19,7 @@ import { loadLocalDb, persistLocalDb } from "./local-db";
 
 export type AppRepository = {
   getUserById: (userId: string) => Promise<UserProfile | null>;
+  getUserByEmail: (email: string) => Promise<UserProfile | null>;
   listChurches: () => Promise<Church[]>;
   getChurchById: (churchId: string) => Promise<Church | null>;
   upsertChurch: (church: Church) => Promise<Church>;
@@ -45,6 +46,12 @@ class LocalRepository implements AppRepository {
   async getUserById(userId: string): Promise<UserProfile | null> {
     const db = await loadLocalDb();
     return db.users.find((item) => item.userId === userId) ?? null;
+  }
+
+  async getUserByEmail(email: string): Promise<UserProfile | null> {
+    const normalizedEmail = email.trim().toLowerCase();
+    const db = await loadLocalDb();
+    return db.users.find((item) => item.email.trim().toLowerCase() === normalizedEmail) ?? null;
   }
 
   async listChurches(): Promise<Church[]> {
@@ -156,6 +163,12 @@ class DynamoRepository implements AppRepository {
       Key: { userId },
     }));
     return (response.Item as UserProfile | undefined) ?? null;
+  }
+
+  async getUserByEmail(email: string): Promise<UserProfile | null> {
+    const users = await this.scanAll<UserProfile>(this.config.usersTableName);
+    const normalizedEmail = email.trim().toLowerCase();
+    return users.find((item) => item.email.trim().toLowerCase() === normalizedEmail) ?? null;
   }
 
   async listChurches(): Promise<Church[]> {

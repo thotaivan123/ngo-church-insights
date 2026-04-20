@@ -137,7 +137,22 @@ For local demo mode:
 
 - keep `DATA_SOURCE=local`
 - keep `ENABLE_DEMO_AUTH=true`
+- keep `VITE_ENABLE_DEMO_AUTH=true`
 - leave Cognito values empty until AWS setup starts
+
+For Cognito-first local testing:
+
+- keep `DATA_SOURCE=local`
+- you can keep `ENABLE_DEMO_AUTH=true` during the transition
+- set `VITE_COGNITO_REGION`
+- set `VITE_COGNITO_USER_POOL_ID`
+- set `VITE_COGNITO_CLIENT_ID`
+- set `VITE_COGNITO_DOMAIN`
+- set `VITE_COGNITO_REDIRECT_SIGN_IN=http://localhost:5173/`
+- set `VITE_COGNITO_REDIRECT_SIGN_OUT=http://localhost:5173/login`
+- configure the Cognito app client with the same callback and sign-out URLs
+- first-test the flow with a `super_admin` Cognito user
+- `church_leader` scoping works when the Cognito user email matches a seeded local user profile, or when you later persist user profiles in DynamoDB
 
 For AWS wiring later:
 

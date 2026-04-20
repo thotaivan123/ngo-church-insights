@@ -61,11 +61,11 @@ const DashboardPage = () => {
   const overviewQuery = useQuery({
     queryKey: ["dashboard-overview", session?.userId, filters],
     enabled: Boolean(session?.userId),
-    queryFn: () => api.getDashboardOverview(filters, session!.userId),
+    queryFn: () => api.getDashboardOverview(filters, session!),
   });
 
   const summaryMutation = useMutation({
-    mutationFn: () => api.getInsightSummary(filters, session!.userId),
+    mutationFn: () => api.getInsightSummary(filters, session!),
   });
   const resetSummary = summaryMutation.reset;
 
