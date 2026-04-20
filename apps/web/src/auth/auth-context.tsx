@@ -76,6 +76,13 @@ const clearStoredDemoSession = (): void => {
 
 const getCurrentPath = (): string => `${window.location.pathname}${window.location.search}${window.location.hash}`;
 
+const normalizeReturnTo = (value: string | null | undefined): string => {
+  if (!value || value === "/login" || value.startsWith("/login?") || value.startsWith("/login#")) {
+    return "/";
+  }
+  return value;
+};
+
 const cleanUpAuthUrl = (targetPath: string): void => {
   window.history.replaceState({}, document.title, targetPath);
 };
@@ -134,8 +141,11 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
         if (callbackDetected) {
           const callbackResult = await completeCognitoLogin();
           nextSession = callbackResult.session;
-          redirectTarget = callbackResult.returnTo ?? "/";
-          cleanUpAuthUrl(redirectTarget);
+          redirectTarget = normalizeReturnTo(callbackResult.returnTo);
+          if (!cancelled) {
+            window.location.replace(redirectTarget);
+            return;
+          }
         } else if (cognitoError) {
           if (!cancelled) {
             setAuthError(cognitoError);
@@ -199,7 +209,7 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
     writeStoredDemoSession(nextSession);
   }, []);
 
-  const loginWithCognito = useCallback(async (returnTo = getCurrentPath()) => {
+  const loginWithCognito = useCallback(async (returnTo = normalizeReturnTo(getCurrentPath())) => {
     if (!isCognitoEnabled) {
       throw new Error("Cognito is not configured for this environment.");
     }
